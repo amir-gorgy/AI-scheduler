@@ -1,0 +1,1001 @@
+Task Type,Duration (hrs),Priority,Is Weekend,Slot Start Hour,Slot End Hour
+Meeting,1.5,Medium,1,8,9
+Social,3.0,Medium,1,9,12
+Deep Work,1.5,Medium,1,10,11
+Exercise,0.5,Medium,1,11,11
+Social,2.0,Low,1,12,14
+Errands,3.0,Medium,1,13,16
+Meeting,0.5,High,1,14,14
+Deep Work,1.5,Medium,1,15,16
+Errands,1.5,High,1,16,17
+Meeting,0.5,Medium,1,17,17
+Exercise,1.5,Low,1,18,19
+Social,0.5,High,1,19,19
+Errands,0.5,High,1,20,20
+Exercise,1.5,Low,1,21,22
+Social,1.0,Medium,1,22,23
+Social,3.0,High,1,23,2
+Meeting,1.5,Medium,0,0,1
+Deep Work,1.0,High,0,1,2
+Exercise,0.5,High,0,2,2
+Social,2.0,High,0,3,5
+Deep Work,1.0,Medium,0,4,5
+Deep Work,2.0,Medium,0,5,7
+Deep Work,1.5,Low,0,6,7
+Errands,0.5,Low,0,7,7
+Social,2.0,Medium,0,8,10
+Deep Work,3.0,Medium,0,9,12
+Social,1.5,High,0,10,11
+Deep Work,1.0,Medium,0,11,12
+Exercise,3.0,High,0,12,15
+Social,2.0,Low,0,13,15
+Social,3.0,High,0,14,17
+Exercise,3.0,Low,0,15,18
+Meeting,1.0,High,0,16,17
+Exercise,1.0,Medium,0,17,18
+Deep Work,0.5,High,0,18,18
+Errands,3.0,High,0,19,22
+Errands,0.5,High,0,20,20
+Errands,1.0,High,0,21,22
+Deep Work,1.0,Low,0,22,23
+Errands,1.5,Medium,0,23,0
+Deep Work,0.5,High,0,0,0
+Exercise,1.5,High,0,1,2
+Social,1.5,Medium,0,2,3
+Deep Work,1.0,Low,0,3,4
+Exercise,2.0,Medium,0,4,6
+Errands,2.0,High,0,5,7
+Errands,3.0,Medium,0,6,9
+Exercise,3.0,Low,0,7,10
+Deep Work,3.0,Low,0,8,11
+Deep Work,0.5,Medium,0,9,9
+Deep Work,3.0,Medium,0,10,13
+Social,0.5,Low,0,11,11
+Meeting,2.0,Low,0,12,14
+Exercise,1.0,Medium,0,13,14
+Social,3.0,Medium,0,14,17
+Social,1.5,Medium,0,15,16
+Social,1.5,Low,0,16,17
+Social,1.0,High,0,17,18
+Exercise,0.5,Low,0,18,18
+Exercise,0.5,High,0,19,19
+Exercise,3.0,Low,0,20,23
+Errands,0.5,High,0,21,21
+Errands,0.5,Medium,0,22,22
+Exercise,1.5,Medium,0,23,0
+Deep Work,0.5,High,0,0,0
+Exercise,3.0,Low,0,1,4
+Social,2.0,Medium,0,2,4
+Meeting,1.0,Low,0,3,4
+Deep Work,0.5,High,0,4,4
+Meeting,2.0,Low,0,5,7
+Exercise,3.0,Medium,0,6,9
+Exercise,0.5,Medium,0,7,7
+Meeting,0.5,Low,0,8,8
+Social,2.0,Medium,0,9,11
+Social,2.0,Medium,0,10,12
+Social,0.5,High,0,11,11
+Social,2.0,High,0,12,14
+Social,1.0,Medium,0,13,14
+Exercise,1.0,High,0,14,15
+Social,0.5,Low,0,15,15
+Deep Work,0.5,Medium,0,16,16
+Exercise,0.5,High,0,17,17
+Errands,1.0,High,0,18,19
+Errands,2.0,Medium,0,19,21
+Errands,1.5,Medium,0,20,21
+Errands,2.0,Low,0,21,23
+Social,2.0,Medium,0,22,0
+Errands,1.0,Medium,0,23,0
+Exercise,0.5,Low,0,0,0
+Exercise,0.5,Medium,0,1,1
+Meeting,0.5,Medium,0,2,2
+Exercise,1.5,Medium,0,3,4
+Exercise,1.0,High,0,4,5
+Exercise,1.5,High,0,5,6
+Meeting,2.0,Low,0,6,8
+Exercise,3.0,Low,0,7,10
+Exercise,2.0,Low,0,8,10
+Meeting,1.5,Low,0,9,10
+Meeting,2.0,High,0,10,12
+Meeting,3.0,Low,0,11,14
+Meeting,0.5,Low,0,12,12
+Meeting,1.5,Medium,0,13,14
+Exercise,1.5,High,0,14,15
+Meeting,0.5,Medium,0,15,15
+Social,1.0,Low,0,16,17
+Errands,1.0,High,0,17,18
+Social,1.5,High,0,18,19
+Exercise,1.5,Low,0,19,20
+Meeting,1.5,Low,0,20,21
+Deep Work,0.5,High,0,21,21
+Meeting,3.0,High,0,22,1
+Deep Work,3.0,Medium,0,23,2
+Meeting,1.5,Medium,0,0,1
+Deep Work,1.5,Low,0,1,2
+Meeting,2.0,High,0,2,4
+Exercise,0.5,Low,0,3,3
+Deep Work,2.0,Low,0,4,6
+Errands,2.0,Low,0,5,7
+Social,1.5,High,0,6,7
+Social,2.0,Low,0,7,9
+Meeting,3.0,Low,0,8,11
+Meeting,1.5,Low,0,9,10
+Social,3.0,Low,0,10,13
+Errands,0.5,High,0,11,11
+Deep Work,0.5,Low,0,12,12
+Exercise,2.0,High,0,13,15
+Deep Work,3.0,High,0,14,17
+Deep Work,2.0,Low,0,15,17
+Exercise,2.0,High,0,16,18
+Errands,1.5,Medium,0,17,18
+Errands,3.0,High,0,18,21
+Errands,2.0,Low,0,19,21
+Exercise,1.5,High,0,20,21
+Exercise,1.5,Medium,0,21,22
+Exercise,3.0,High,0,22,1
+Errands,2.0,High,0,23,1
+Meeting,1.0,Low,1,0,1
+Errands,1.5,High,1,1,2
+Deep Work,1.5,Medium,1,2,3
+Social,0.5,Low,1,3,3
+Deep Work,0.5,Low,1,4,4
+Social,2.0,High,1,5,7
+Deep Work,3.0,High,1,6,9
+Exercise,0.5,Medium,1,7,7
+Social,0.5,Medium,1,8,8
+Errands,3.0,High,1,9,12
+Errands,1.5,Medium,1,10,11
+Meeting,2.0,Low,1,11,13
+Meeting,0.5,Medium,1,12,12
+Deep Work,1.0,High,1,13,14
+Meeting,1.0,Low,1,14,15
+Exercise,2.0,Medium,1,15,17
+Deep Work,3.0,Low,1,16,19
+Deep Work,3.0,High,1,17,20
+Meeting,2.0,Low,1,18,20
+Exercise,2.0,High,1,19,21
+Meeting,2.0,Low,1,20,22
+Exercise,2.0,Medium,1,21,23
+Meeting,1.5,Medium,1,22,23
+Meeting,3.0,Low,1,23,2
+Errands,1.0,Low,1,0,1
+Exercise,3.0,High,1,1,4
+Deep Work,1.5,High,1,2,3
+Social,0.5,Low,1,3,3
+Social,2.0,Medium,1,4,6
+Errands,1.5,High,1,5,6
+Meeting,1.5,Low,1,6,7
+Exercise,2.0,High,1,7,9
+Deep Work,0.5,Medium,1,8,8
+Social,0.5,Medium,1,9,9
+Errands,2.0,High,1,10,12
+Exercise,1.5,Low,1,11,12
+Exercise,1.0,High,1,12,13
+Errands,2.0,Medium,1,13,15
+Deep Work,3.0,High,1,14,17
+Meeting,3.0,Low,1,15,18
+Meeting,1.5,Low,1,16,17
+Errands,2.0,Medium,1,17,19
+Meeting,2.0,Medium,1,18,20
+Deep Work,1.0,Low,1,19,20
+Social,1.5,Medium,1,20,21
+Social,0.5,High,1,21,21
+Social,1.0,Medium,1,22,23
+Exercise,3.0,Low,1,23,2
+Deep Work,1.0,Medium,0,0,1
+Deep Work,1.0,Low,0,1,2
+Exercise,1.0,Medium,0,2,3
+Errands,3.0,High,0,3,6
+Errands,3.0,High,0,4,7
+Social,2.0,High,0,5,7
+Social,0.5,High,0,6,6
+Errands,0.5,Low,0,7,7
+Social,3.0,High,0,8,11
+Exercise,1.0,Low,0,9,10
+Social,2.0,Medium,0,10,12
+Deep Work,1.0,Low,0,11,12
+Social,1.5,Low,0,12,13
+Deep Work,1.5,Low,0,13,14
+Meeting,0.5,Medium,0,14,14
+Deep Work,1.5,Medium,0,15,16
+Social,1.5,Low,0,16,17
+Errands,0.5,Medium,0,17,17
+Errands,1.5,High,0,18,19
+Social,1.0,High,0,19,20
+Deep Work,1.5,High,0,20,21
+Meeting,2.0,Medium,0,21,23
+Meeting,1.0,Low,0,22,23
+Exercise,1.5,High,0,23,0
+Meeting,0.5,High,0,0,0
+Errands,0.5,High,0,1,1
+Deep Work,2.0,High,0,2,4
+Errands,0.5,High,0,3,3
+Errands,3.0,High,0,4,7
+Deep Work,0.5,Medium,0,5,5
+Deep Work,1.0,High,0,6,7
+Meeting,1.5,Low,0,7,8
+Social,2.0,High,0,8,10
+Deep Work,1.5,Medium,0,9,10
+Meeting,1.5,High,0,10,11
+Social,0.5,Low,0,11,11
+Deep Work,0.5,Low,0,12,12
+Errands,2.0,High,0,13,15
+Errands,1.5,High,0,14,15
+Social,1.0,Medium,0,15,16
+Social,1.5,Low,0,16,17
+Meeting,2.0,Low,0,17,19
+Errands,2.0,High,0,18,20
+Social,2.0,High,0,19,21
+Exercise,3.0,Medium,0,20,23
+Exercise,2.0,Medium,0,21,23
+Errands,1.5,Low,0,22,23
+Exercise,3.0,Medium,0,23,2
+Exercise,3.0,Medium,0,0,3
+Social,2.0,High,0,1,3
+Errands,2.0,High,0,2,4
+Social,0.5,Low,0,3,3
+Deep Work,1.0,High,0,4,5
+Exercise,3.0,Medium,0,5,8
+Exercise,3.0,Medium,0,6,9
+Errands,1.0,High,0,7,8
+Exercise,2.0,Low,0,8,10
+Meeting,2.0,Medium,0,9,11
+Exercise,2.0,Medium,0,10,12
+Social,0.5,Medium,0,11,11
+Exercise,0.5,Medium,0,12,12
+Meeting,1.5,High,0,13,14
+Errands,2.0,High,0,14,16
+Exercise,2.0,High,0,15,17
+Meeting,0.5,Low,0,16,16
+Social,1.0,Medium,0,17,18
+Errands,3.0,Medium,0,18,21
+Deep Work,0.5,Low,0,19,19
+Errands,3.0,Medium,0,20,23
+Errands,3.0,Medium,0,21,0
+Meeting,1.5,Low,0,22,23
+Meeting,3.0,Medium,0,23,2
+Social,2.0,High,0,0,2
+Exercise,0.5,Low,0,1,1
+Deep Work,1.0,High,0,2,3
+Meeting,1.5,High,0,3,4
+Social,3.0,High,0,4,7
+Errands,1.0,Medium,0,5,6
+Deep Work,1.0,Medium,0,6,7
+Errands,3.0,Low,0,7,10
+Exercise,1.0,Low,0,8,9
+Errands,1.0,Medium,0,9,10
+Errands,2.0,High,0,10,12
+Deep Work,3.0,Medium,0,11,14
+Errands,0.5,High,0,12,12
+Meeting,1.0,Low,0,13,14
+Errands,0.5,Low,0,14,14
+Errands,2.0,Low,0,15,17
+Deep Work,1.0,Medium,0,16,17
+Exercise,0.5,Medium,0,17,17
+Deep Work,0.5,High,0,18,18
+Meeting,1.5,Low,0,19,20
+Exercise,1.5,High,0,20,21
+Exercise,2.0,Low,0,21,23
+Social,1.5,Low,0,22,23
+Deep Work,2.0,Low,0,23,1
+Social,1.5,Low,0,0,1
+Deep Work,0.5,Low,0,1,1
+Deep Work,0.5,Low,0,2,2
+Deep Work,1.0,Medium,0,3,4
+Meeting,1.0,Low,0,4,5
+Errands,1.5,High,0,5,6
+Meeting,2.0,High,0,6,8
+Social,1.0,Medium,0,7,8
+Deep Work,2.0,Low,0,8,10
+Meeting,1.0,Medium,0,9,10
+Exercise,2.0,High,0,10,12
+Social,0.5,Medium,0,11,11
+Deep Work,1.0,Medium,0,12,13
+Errands,1.5,Medium,0,13,14
+Deep Work,2.0,Low,0,14,16
+Meeting,2.0,Low,0,15,17
+Meeting,1.0,Low,0,16,17
+Meeting,3.0,Medium,0,17,20
+Exercise,3.0,Medium,0,18,21
+Social,1.5,Medium,0,19,20
+Meeting,0.5,High,0,20,20
+Errands,3.0,Low,0,21,0
+Social,2.0,High,0,22,0
+Exercise,3.0,High,0,23,2
+Deep Work,3.0,Low,1,0,3
+Meeting,1.0,Medium,1,1,2
+Social,3.0,High,1,2,5
+Exercise,2.0,Low,1,3,5
+Exercise,3.0,Medium,1,4,7
+Meeting,2.0,Medium,1,5,7
+Meeting,0.5,Medium,1,6,6
+Meeting,3.0,Low,1,7,10
+Meeting,3.0,High,1,8,11
+Errands,1.0,Low,1,9,10
+Exercise,3.0,Medium,1,10,13
+Exercise,1.5,High,1,11,12
+Social,2.0,Low,1,12,14
+Social,1.0,Medium,1,13,14
+Meeting,2.0,Medium,1,14,16
+Social,3.0,Low,1,15,18
+Errands,2.0,Medium,1,16,18
+Exercise,3.0,High,1,17,20
+Exercise,2.0,Medium,1,18,20
+Deep Work,2.0,High,1,19,21
+Meeting,1.5,Low,1,20,21
+Social,1.5,Medium,1,21,22
+Errands,1.0,Medium,1,22,23
+Social,2.0,Medium,1,23,1
+Social,3.0,Medium,1,0,3
+Social,0.5,Low,1,1,1
+Errands,0.5,Low,1,2,2
+Exercise,3.0,Medium,1,3,6
+Social,1.5,Low,1,4,5
+Deep Work,3.0,Low,1,5,8
+Errands,2.0,High,1,6,8
+Social,3.0,Low,1,7,10
+Social,1.0,Low,1,8,9
+Social,2.0,Medium,1,9,11
+Exercise,1.0,Medium,1,10,11
+Exercise,1.0,High,1,11,12
+Exercise,1.5,Low,1,12,13
+Deep Work,1.5,High,1,13,14
+Errands,1.0,High,1,14,15
+Meeting,2.0,High,1,15,17
+Social,3.0,High,1,16,19
+Social,1.0,Low,1,17,18
+Exercise,1.5,High,1,18,19
+Social,2.0,Medium,1,19,21
+Meeting,2.0,Low,1,20,22
+Exercise,1.0,Low,1,21,22
+Deep Work,0.5,Low,1,22,22
+Deep Work,3.0,Low,1,23,2
+Exercise,3.0,High,0,0,3
+Deep Work,0.5,Low,0,1,1
+Exercise,2.0,Low,0,2,4
+Exercise,1.0,High,0,3,4
+Social,3.0,High,0,4,7
+Meeting,1.5,Low,0,5,6
+Social,3.0,Medium,0,6,9
+Exercise,2.0,Low,0,7,9
+Exercise,1.5,Medium,0,8,9
+Errands,1.0,Medium,0,9,10
+Social,2.0,Medium,0,10,12
+Meeting,3.0,Medium,0,11,14
+Meeting,2.0,Medium,0,12,14
+Deep Work,1.5,Low,0,13,14
+Meeting,2.0,High,0,14,16
+Errands,2.0,Low,0,15,17
+Social,0.5,Medium,0,16,16
+Social,3.0,High,0,17,20
+Social,0.5,Medium,0,18,18
+Exercise,0.5,Medium,0,19,19
+Exercise,2.0,Medium,0,20,22
+Errands,1.5,Low,0,21,22
+Meeting,3.0,Low,0,22,1
+Meeting,1.5,Medium,0,23,0
+Errands,1.5,Low,0,0,1
+Exercise,3.0,Low,0,1,4
+Exercise,0.5,Medium,0,2,2
+Exercise,3.0,Medium,0,3,6
+Exercise,1.5,Low,0,4,5
+Social,0.5,Low,0,5,5
+Deep Work,1.5,High,0,6,7
+Social,2.0,High,0,7,9
+Errands,1.5,Low,0,8,9
+Meeting,1.5,High,0,9,10
+Social,0.5,Medium,0,10,10
+Social,1.0,High,0,11,12
+Errands,3.0,Low,0,12,15
+Deep Work,0.5,High,0,13,13
+Exercise,0.5,Low,0,14,14
+Social,0.5,Low,0,15,15
+Social,1.5,High,0,16,17
+Deep Work,3.0,Low,0,17,20
+Exercise,0.5,Medium,0,18,18
+Social,1.0,Low,0,19,20
+Meeting,1.0,Low,0,20,21
+Social,1.5,Low,0,21,22
+Errands,2.0,Medium,0,22,0
+Deep Work,3.0,Low,0,23,2
+Social,2.0,Low,0,0,2
+Meeting,2.0,Medium,0,1,3
+Errands,1.0,High,0,2,3
+Meeting,1.0,Medium,0,3,4
+Exercise,3.0,Medium,0,4,7
+Errands,1.0,Low,0,5,6
+Social,1.0,High,0,6,7
+Deep Work,1.5,High,0,7,8
+Exercise,2.0,High,0,8,10
+Social,1.5,Medium,0,9,10
+Errands,3.0,High,0,10,13
+Deep Work,1.0,Low,0,11,12
+Deep Work,1.0,High,0,12,13
+Social,3.0,High,0,13,16
+Errands,1.0,Medium,0,14,15
+Meeting,1.0,High,0,15,16
+Deep Work,3.0,High,0,16,19
+Meeting,2.0,Low,0,17,19
+Social,3.0,High,0,18,21
+Exercise,1.5,High,0,19,20
+Errands,0.5,Medium,0,20,20
+Social,0.5,High,0,21,21
+Social,2.0,Low,0,22,0
+Errands,1.0,High,0,23,0
+Errands,2.0,High,0,0,2
+Exercise,2.0,Low,0,1,3
+Social,1.5,Medium,0,2,3
+Deep Work,0.5,High,0,3,3
+Exercise,3.0,High,0,4,7
+Exercise,0.5,High,0,5,5
+Meeting,2.0,Medium,0,6,8
+Errands,1.5,High,0,7,8
+Deep Work,1.0,Low,0,8,9
+Exercise,1.5,Low,0,9,10
+Meeting,3.0,High,0,10,13
+Meeting,0.5,High,0,11,11
+Meeting,0.5,Low,0,12,12
+Social,0.5,Medium,0,13,13
+Errands,0.5,High,0,14,14
+Meeting,2.0,Medium,0,15,17
+Social,1.0,Medium,0,16,17
+Deep Work,1.0,High,0,17,18
+Meeting,1.5,Medium,0,18,19
+Errands,1.5,High,0,19,20
+Deep Work,3.0,High,0,20,23
+Deep Work,3.0,Medium,0,21,0
+Deep Work,0.5,Medium,0,22,22
+Social,2.0,Low,0,23,1
+Social,1.0,Low,0,0,1
+Deep Work,3.0,Medium,0,1,4
+Errands,1.5,High,0,2,3
+Deep Work,1.5,High,0,3,4
+Deep Work,0.5,High,0,4,4
+Deep Work,0.5,Low,0,5,5
+Social,2.0,Medium,0,6,8
+Deep Work,1.0,Low,0,7,8
+Social,3.0,High,0,8,11
+Social,0.5,Medium,0,9,9
+Deep Work,3.0,Medium,0,10,13
+Social,0.5,Medium,0,11,11
+Social,1.0,High,0,12,13
+Meeting,2.0,Low,0,13,15
+Social,1.5,High,0,14,15
+Social,0.5,Medium,0,15,15
+Errands,3.0,High,0,16,19
+Deep Work,1.0,High,0,17,18
+Exercise,2.0,Medium,0,18,20
+Deep Work,0.5,Low,0,19,19
+Meeting,1.5,Medium,0,20,21
+Meeting,2.0,Medium,0,21,23
+Meeting,2.0,High,0,22,0
+Deep Work,1.5,High,0,23,0
+Meeting,2.0,Low,1,0,2
+Meeting,0.5,Low,1,1,1
+Deep Work,1.5,Low,1,2,3
+Errands,1.0,High,1,3,4
+Exercise,1.5,Low,1,4,5
+Exercise,1.0,Medium,1,5,6
+Errands,1.5,Medium,1,6,7
+Deep Work,1.5,Medium,1,7,8
+Meeting,3.0,Medium,1,8,11
+Exercise,2.0,Medium,1,9,11
+Meeting,2.0,Medium,1,10,12
+Deep Work,1.0,Medium,1,11,12
+Deep Work,1.5,Medium,1,12,13
+Deep Work,0.5,Low,1,13,13
+Social,2.0,Medium,1,14,16
+Meeting,0.5,High,1,15,15
+Deep Work,0.5,High,1,16,16
+Errands,1.5,High,1,17,18
+Deep Work,0.5,High,1,18,18
+Errands,3.0,High,1,19,22
+Errands,3.0,Medium,1,20,23
+Exercise,2.0,High,1,21,23
+Meeting,1.0,Medium,1,22,23
+Exercise,3.0,High,1,23,2
+Meeting,0.5,Low,1,0,0
+Social,1.0,Medium,1,1,2
+Deep Work,2.0,Low,1,2,4
+Deep Work,2.0,Low,1,3,5
+Meeting,2.0,High,1,4,6
+Errands,2.0,Medium,1,5,7
+Deep Work,1.5,High,1,6,7
+Social,2.0,High,1,7,9
+Errands,3.0,Low,1,8,11
+Exercise,3.0,Medium,1,9,12
+Exercise,3.0,High,1,10,13
+Errands,1.0,High,1,11,12
+Social,2.0,Medium,1,12,14
+Exercise,1.5,Low,1,13,14
+Errands,3.0,Low,1,14,17
+Deep Work,1.0,Low,1,15,16
+Deep Work,0.5,Medium,1,16,16
+Social,0.5,High,1,17,17
+Errands,3.0,High,1,18,21
+Social,2.0,High,1,19,21
+Meeting,2.0,Low,1,20,22
+Meeting,0.5,High,1,21,21
+Social,3.0,Medium,1,22,1
+Errands,1.0,Medium,1,23,0
+Meeting,1.5,Low,0,0,1
+Errands,3.0,Medium,0,1,4
+Meeting,3.0,High,0,2,5
+Exercise,1.0,Low,0,3,4
+Meeting,3.0,Medium,0,4,7
+Meeting,3.0,High,0,5,8
+Deep Work,1.5,High,0,6,7
+Exercise,0.5,Medium,0,7,7
+Social,1.0,Medium,0,8,9
+Social,0.5,Low,0,9,9
+Meeting,0.5,Low,0,10,10
+Social,3.0,Medium,0,11,14
+Exercise,2.0,Low,0,12,14
+Social,1.5,Medium,0,13,14
+Deep Work,2.0,Low,0,14,16
+Social,1.5,Medium,0,15,16
+Deep Work,1.0,Medium,0,16,17
+Errands,3.0,High,0,17,20
+Meeting,2.0,Medium,0,18,20
+Errands,0.5,Low,0,19,19
+Exercise,0.5,High,0,20,20
+Errands,2.0,High,0,21,23
+Exercise,1.0,Low,0,22,23
+Errands,0.5,High,0,23,23
+Social,1.5,Low,0,0,1
+Exercise,3.0,Medium,0,1,4
+Exercise,1.0,Low,0,2,3
+Exercise,2.0,Low,0,3,5
+Social,0.5,Medium,0,4,4
+Social,1.0,Low,0,5,6
+Exercise,0.5,Medium,0,6,6
+Exercise,1.5,Medium,0,7,8
+Meeting,0.5,High,0,8,8
+Deep Work,0.5,Low,0,9,9
+Meeting,1.0,Low,0,10,11
+Social,1.5,Low,0,11,12
+Exercise,2.0,Low,0,12,14
+Exercise,1.0,High,0,13,14
+Deep Work,1.5,High,0,14,15
+Deep Work,0.5,Low,0,15,15
+Errands,0.5,Low,0,16,16
+Exercise,0.5,Low,0,17,17
+Deep Work,2.0,High,0,18,20
+Meeting,3.0,High,0,19,22
+Social,0.5,Low,0,20,20
+Exercise,1.5,Low,0,21,22
+Social,3.0,High,0,22,1
+Social,2.0,Medium,0,23,1
+Deep Work,2.0,Medium,0,0,2
+Social,1.0,Low,0,1,2
+Meeting,3.0,Medium,0,2,5
+Exercise,1.0,Low,0,3,4
+Meeting,1.0,High,0,4,5
+Social,2.0,Low,0,5,7
+Deep Work,2.0,Medium,0,6,8
+Errands,1.5,High,0,7,8
+Exercise,3.0,High,0,8,11
+Social,2.0,Low,0,9,11
+Social,3.0,Low,0,10,13
+Meeting,3.0,High,0,11,14
+Exercise,1.0,Low,0,12,13
+Errands,1.0,Medium,0,13,14
+Meeting,3.0,Low,0,14,17
+Errands,1.0,Medium,0,15,16
+Social,2.0,Medium,0,16,18
+Exercise,3.0,Low,0,17,20
+Social,0.5,Medium,0,18,18
+Exercise,1.5,High,0,19,20
+Exercise,0.5,Low,0,20,20
+Social,3.0,High,0,21,0
+Social,2.0,Medium,0,22,0
+Deep Work,0.5,Medium,0,23,23
+Meeting,1.5,Low,0,0,1
+Errands,2.0,High,0,1,3
+Social,1.0,Medium,0,2,3
+Deep Work,1.0,Medium,0,3,4
+Errands,3.0,High,0,4,7
+Exercise,1.0,High,0,5,6
+Deep Work,3.0,Medium,0,6,9
+Social,1.5,Medium,0,7,8
+Errands,1.0,Low,0,8,9
+Social,1.5,High,0,9,10
+Deep Work,1.0,High,0,10,11
+Deep Work,1.0,High,0,11,12
+Deep Work,3.0,High,0,12,15
+Social,0.5,Medium,0,13,13
+Meeting,0.5,Medium,0,14,14
+Errands,1.0,Medium,0,15,16
+Deep Work,0.5,High,0,16,16
+Deep Work,1.0,High,0,17,18
+Exercise,3.0,Medium,0,18,21
+Exercise,3.0,Medium,0,19,22
+Exercise,0.5,Medium,0,20,20
+Meeting,0.5,High,0,21,21
+Meeting,3.0,Low,0,22,1
+Meeting,2.0,Low,0,23,1
+Deep Work,1.0,Medium,0,0,1
+Meeting,3.0,Medium,0,1,4
+Deep Work,0.5,Medium,0,2,2
+Meeting,1.5,Low,0,3,4
+Errands,3.0,High,0,4,7
+Errands,0.5,High,0,5,5
+Exercise,1.5,Low,0,6,7
+Deep Work,2.0,High,0,7,9
+Exercise,3.0,High,0,8,11
+Exercise,2.0,Low,0,9,11
+Deep Work,1.0,Low,0,10,11
+Errands,1.5,High,0,11,12
+Meeting,1.0,Low,0,12,13
+Deep Work,0.5,Low,0,13,13
+Social,1.0,Low,0,14,15
+Meeting,1.0,Low,0,15,16
+Deep Work,3.0,Medium,0,16,19
+Social,3.0,High,0,17,20
+Errands,2.0,Medium,0,18,20
+Social,2.0,Medium,0,19,21
+Social,2.0,Medium,0,20,22
+Deep Work,2.0,Medium,0,21,23
+Exercise,2.0,High,0,22,0
+Social,2.0,Medium,0,23,1
+Errands,0.5,High,1,0,0
+Meeting,0.5,Low,1,1,1
+Social,0.5,Medium,1,2,2
+Exercise,2.0,Medium,1,3,5
+Deep Work,2.0,High,1,4,6
+Social,0.5,Medium,1,5,5
+Exercise,3.0,Medium,1,6,9
+Social,0.5,Medium,1,7,7
+Exercise,3.0,High,1,8,11
+Deep Work,0.5,Medium,1,9,9
+Deep Work,3.0,High,1,10,13
+Social,2.0,Medium,1,11,13
+Errands,3.0,Low,1,12,15
+Exercise,3.0,Low,1,13,16
+Errands,1.5,Low,1,14,15
+Meeting,2.0,Low,1,15,17
+Meeting,0.5,Medium,1,16,16
+Errands,3.0,Low,1,17,20
+Deep Work,2.0,Low,1,18,20
+Meeting,1.5,High,1,19,20
+Deep Work,1.0,Low,1,20,21
+Errands,2.0,Low,1,21,23
+Social,0.5,Low,1,22,22
+Deep Work,1.0,Medium,1,23,0
+Meeting,2.0,Low,1,0,2
+Deep Work,1.5,Medium,1,1,2
+Meeting,3.0,High,1,2,5
+Meeting,3.0,Low,1,3,6
+Errands,2.0,High,1,4,6
+Meeting,1.5,High,1,5,6
+Errands,1.0,High,1,6,7
+Social,3.0,Low,1,7,10
+Deep Work,3.0,Medium,1,8,11
+Exercise,0.5,Medium,1,9,9
+Meeting,1.0,Low,1,10,11
+Social,2.0,Medium,1,11,13
+Deep Work,0.5,Medium,1,12,12
+Exercise,3.0,Medium,1,13,16
+Social,3.0,High,1,14,17
+Errands,1.0,Low,1,15,16
+Errands,3.0,Medium,1,16,19
+Exercise,1.0,Low,1,17,18
+Deep Work,1.0,Low,1,18,19
+Deep Work,0.5,High,1,19,19
+Deep Work,0.5,Low,1,20,20
+Deep Work,3.0,High,1,21,0
+Meeting,1.5,Low,1,22,23
+Meeting,1.0,Low,1,23,0
+Deep Work,3.0,High,0,0,3
+Errands,1.5,Low,0,1,2
+Errands,3.0,Medium,0,2,5
+Errands,1.5,Medium,0,3,4
+Exercise,1.0,Low,0,4,5
+Deep Work,3.0,Low,0,5,8
+Social,0.5,High,0,6,6
+Exercise,0.5,Low,0,7,7
+Meeting,0.5,Medium,0,8,8
+Meeting,2.0,High,0,9,11
+Social,0.5,Low,0,10,10
+Exercise,2.0,High,0,11,13
+Social,0.5,High,0,12,12
+Errands,2.0,Low,0,13,15
+Social,2.0,Low,0,14,16
+Meeting,3.0,High,0,15,18
+Meeting,1.5,Medium,0,16,17
+Social,0.5,High,0,17,17
+Exercise,2.0,High,0,18,20
+Deep Work,0.5,Low,0,19,19
+Meeting,1.5,Medium,0,20,21
+Errands,3.0,Low,0,21,0
+Social,2.0,High,0,22,0
+Exercise,1.5,High,0,23,0
+Deep Work,1.0,Medium,0,0,1
+Social,1.0,High,0,1,2
+Errands,1.0,High,0,2,3
+Social,3.0,Low,0,3,6
+Errands,1.5,Low,0,4,5
+Errands,1.5,High,0,5,6
+Deep Work,1.0,Low,0,6,7
+Deep Work,1.5,Medium,0,7,8
+Meeting,1.5,Low,0,8,9
+Deep Work,3.0,High,0,9,12
+Deep Work,2.0,Medium,0,10,12
+Meeting,3.0,High,0,11,14
+Deep Work,1.5,Low,0,12,13
+Deep Work,1.5,Low,0,13,14
+Meeting,0.5,Medium,0,14,14
+Social,1.5,Low,0,15,16
+Errands,2.0,Medium,0,16,18
+Errands,1.5,Medium,0,17,18
+Social,1.5,Low,0,18,19
+Exercise,0.5,High,0,19,19
+Social,0.5,High,0,20,20
+Meeting,1.5,Low,0,21,22
+Exercise,1.0,Medium,0,22,23
+Meeting,0.5,Medium,0,23,23
+Social,3.0,Low,0,0,3
+Errands,2.0,High,0,1,3
+Meeting,3.0,Low,0,2,5
+Errands,1.0,Low,0,3,4
+Errands,1.5,Medium,0,4,5
+Meeting,0.5,Low,0,5,5
+Social,1.0,Low,0,6,7
+Exercise,2.0,High,0,7,9
+Meeting,0.5,Medium,0,8,8
+Social,1.0,Medium,0,9,10
+Errands,0.5,Low,0,10,10
+Meeting,1.5,High,0,11,12
+Errands,1.0,Low,0,12,13
+Social,1.0,Medium,0,13,14
+Meeting,3.0,High,0,14,17
+Social,3.0,Low,0,15,18
+Meeting,1.5,Medium,0,16,17
+Exercise,0.5,Medium,0,17,17
+Meeting,2.0,Low,0,18,20
+Meeting,3.0,Medium,0,19,22
+Meeting,1.0,High,0,20,21
+Deep Work,0.5,High,0,21,21
+Exercise,2.0,High,0,22,0
+Meeting,2.0,Low,0,23,1
+Exercise,1.5,High,0,0,1
+Social,0.5,High,0,1,1
+Deep Work,0.5,High,0,2,2
+Social,0.5,Low,0,3,3
+Social,2.0,Medium,0,4,6
+Meeting,2.0,Medium,0,5,7
+Errands,1.0,High,0,6,7
+Exercise,0.5,Low,0,7,7
+Errands,2.0,Low,0,8,10
+Deep Work,3.0,Medium,0,9,12
+Meeting,1.0,Low,0,10,11
+Social,3.0,High,0,11,14
+Errands,1.0,Medium,0,12,13
+Exercise,0.5,Low,0,13,13
+Errands,3.0,Low,0,14,17
+Deep Work,0.5,Medium,0,15,15
+Meeting,0.5,Low,0,16,16
+Deep Work,1.5,Low,0,17,18
+Social,3.0,Low,0,18,21
+Meeting,1.5,Medium,0,19,20
+Exercise,1.5,Low,0,20,21
+Social,1.0,Medium,0,21,22
+Exercise,1.0,Medium,0,22,23
+Meeting,1.5,Medium,0,23,0
+Errands,2.0,Medium,0,0,2
+Errands,1.0,High,0,1,2
+Meeting,3.0,High,0,2,5
+Social,3.0,Low,0,3,6
+Meeting,2.0,High,0,4,6
+Meeting,1.5,High,0,5,6
+Exercise,1.5,Medium,0,6,7
+Deep Work,2.0,Low,0,7,9
+Deep Work,3.0,Medium,0,8,11
+Deep Work,2.0,High,0,9,11
+Errands,2.0,Low,0,10,12
+Errands,2.0,High,0,11,13
+Social,0.5,Medium,0,12,12
+Social,2.0,High,0,13,15
+Social,2.0,Low,0,14,16
+Meeting,1.5,Medium,0,15,16
+Social,1.0,Low,0,16,17
+Deep Work,1.5,High,0,17,18
+Meeting,1.5,High,0,18,19
+Meeting,1.0,Medium,0,19,20
+Deep Work,1.5,Medium,0,20,21
+Errands,2.0,Low,0,21,23
+Errands,1.0,Low,0,22,23
+Deep Work,1.5,High,0,23,0
+Meeting,2.0,Low,1,0,2
+Errands,1.0,High,1,1,2
+Exercise,1.0,Low,1,2,3
+Deep Work,1.5,Low,1,3,4
+Social,3.0,High,1,4,7
+Exercise,3.0,Low,1,5,8
+Meeting,0.5,High,1,6,6
+Errands,1.5,High,1,7,8
+Errands,1.0,Medium,1,8,9
+Deep Work,1.0,Low,1,9,10
+Meeting,0.5,Medium,1,10,10
+Errands,3.0,Medium,1,11,14
+Errands,1.0,High,1,12,13
+Errands,3.0,Low,1,13,16
+Social,3.0,Medium,1,14,17
+Deep Work,1.5,Medium,1,15,16
+Deep Work,2.0,Medium,1,16,18
+Social,2.0,Low,1,17,19
+Meeting,2.0,Low,1,18,20
+Meeting,1.0,Medium,1,19,20
+Meeting,0.5,Medium,1,20,20
+Social,0.5,Medium,1,21,21
+Errands,1.0,High,1,22,23
+Social,1.0,Low,1,23,0
+Social,1.0,High,1,0,1
+Errands,1.5,High,1,1,2
+Exercise,1.0,Low,1,2,3
+Social,1.0,Low,1,3,4
+Deep Work,1.0,Medium,1,4,5
+Errands,3.0,Low,1,5,8
+Errands,0.5,High,1,6,6
+Social,3.0,High,1,7,10
+Meeting,1.0,Low,1,8,9
+Meeting,0.5,Medium,1,9,9
+Social,3.0,High,1,10,13
+Meeting,1.5,Medium,1,11,12
+Errands,1.5,Low,1,12,13
+Errands,2.0,Low,1,13,15
+Deep Work,2.0,Low,1,14,16
+Exercise,1.0,High,1,15,16
+Social,1.5,Medium,1,16,17
+Deep Work,1.5,High,1,17,18
+Deep Work,3.0,Low,1,18,21
+Errands,1.0,Low,1,19,20
+Errands,1.5,High,1,20,21
+Deep Work,1.5,High,1,21,22
+Social,1.5,High,1,22,23
+Meeting,3.0,High,1,23,2
+Social,1.5,Low,0,0,1
+Exercise,3.0,High,0,1,4
+Deep Work,1.0,High,0,2,3
+Deep Work,3.0,Low,0,3,6
+Deep Work,1.5,Low,0,4,5
+Errands,2.0,Low,0,5,7
+Deep Work,3.0,Medium,0,6,9
+Exercise,3.0,Low,0,7,10
+Social,1.0,Medium,0,8,9
+Exercise,0.5,Medium,0,9,9
+Deep Work,1.0,High,0,10,11
+Meeting,1.0,High,0,11,12
+Deep Work,2.0,Medium,0,12,14
+Meeting,2.0,Low,0,13,15
+Errands,1.0,High,0,14,15
+Deep Work,2.0,Medium,0,15,17
+Social,1.5,Low,0,16,17
+Deep Work,3.0,Low,0,17,20
+Deep Work,0.5,High,0,18,18
+Deep Work,3.0,High,0,19,22
+Deep Work,3.0,Medium,0,20,23
+Exercise,3.0,High,0,21,0
+Exercise,1.5,High,0,22,23
+Errands,2.0,Medium,0,23,1
+Social,3.0,High,0,0,3
+Errands,1.0,Medium,0,1,2
+Exercise,3.0,Medium,0,2,5
+Deep Work,0.5,Low,0,3,3
+Meeting,3.0,Medium,0,4,7
+Errands,3.0,High,0,5,8
+Deep Work,1.5,High,0,6,7
+Exercise,2.0,High,0,7,9
+Meeting,1.0,High,0,8,9
+Social,2.0,High,0,9,11
+Meeting,0.5,Medium,0,10,10
+Deep Work,1.0,Medium,0,11,12
+Deep Work,3.0,Low,0,12,15
+Exercise,3.0,High,0,13,16
+Social,1.0,Low,0,14,15
+Deep Work,1.5,Low,0,15,16
+Social,1.5,Low,0,16,17
+Exercise,0.5,High,0,17,17
+Exercise,0.5,Low,0,18,18
+Errands,1.0,Medium,0,19,20
+Deep Work,1.0,Low,0,20,21
+Deep Work,1.0,Medium,0,21,22
+Social,0.5,Low,0,22,22
+Meeting,1.0,Low,0,23,0
+Social,2.0,Medium,0,0,2
+Errands,0.5,Low,0,1,1
+Deep Work,0.5,High,0,2,2
+Deep Work,1.0,High,0,3,4
+Deep Work,3.0,Medium,0,4,7
+Errands,1.5,Medium,0,5,6
+Exercise,1.0,High,0,6,7
+Errands,3.0,High,0,7,10
+Errands,0.5,Medium,0,8,8
+Errands,2.0,Medium,0,9,11
+Deep Work,3.0,Low,0,10,13
+Errands,0.5,Medium,0,11,11
+Deep Work,2.0,Low,0,12,14
+Meeting,0.5,High,0,13,13
+Social,3.0,Low,0,14,17
+Meeting,2.0,High,0,15,17
+Exercise,0.5,Low,0,16,16
+Social,3.0,Low,0,17,20
+Errands,3.0,Medium,0,18,21
+Exercise,2.0,High,0,19,21
+Deep Work,1.5,High,0,20,21
+Social,3.0,Low,0,21,0
+Meeting,0.5,High,0,22,22
+Social,1.0,Medium,0,23,0
+Deep Work,1.0,High,0,0,1
+Deep Work,2.0,Low,0,1,3
+Social,1.0,Medium,0,2,3
+Social,1.0,Low,0,3,4
+Social,1.0,High,0,4,5
+Social,0.5,Low,0,5,5
+Social,2.0,Medium,0,6,8
+Meeting,1.5,Medium,0,7,8
+Social,1.0,Medium,0,8,9
+Errands,1.0,High,0,9,10
+Social,2.0,High,0,10,12
+Errands,1.5,Medium,0,11,12
+Exercise,3.0,High,0,12,15
+Meeting,2.0,Low,0,13,15
+Deep Work,3.0,High,0,14,17
+Deep Work,1.0,Low,0,15,16
+Exercise,1.5,Low,0,16,17
+Deep Work,0.5,Low,0,17,17
+Meeting,2.0,High,0,18,20
+Meeting,1.5,Medium,0,19,20
+Deep Work,1.5,High,0,20,21
+Meeting,2.0,Low,0,21,23
+Deep Work,3.0,Low,0,22,1
+Exercise,1.5,Low,0,23,0
+Errands,3.0,Low,0,0,3
+Errands,3.0,High,0,1,4
+Social,0.5,Low,0,2,2
+Deep Work,2.0,Medium,0,3,5
+Social,1.0,Medium,0,4,5
+Errands,1.5,Medium,0,5,6
+Social,2.0,Medium,0,6,8
+Deep Work,3.0,High,0,7,10
+Exercise,1.0,Medium,0,8,9
+Exercise,1.0,Low,0,9,10
+Social,2.0,High,0,10,12
+Errands,3.0,High,0,11,14
+Deep Work,2.0,Medium,0,12,14
+Errands,1.0,Low,0,13,14
+Deep Work,1.5,Low,0,14,15
+Social,2.0,Low,0,15,17
+Deep Work,1.0,Low,0,16,17
+Social,0.5,Low,0,17,17
+Social,2.0,High,0,18,20
+Deep Work,0.5,Low,0,19,19
+Exercise,1.0,High,0,20,21
+Errands,0.5,Low,0,21,21
+Exercise,0.5,Medium,0,22,22
+Exercise,1.0,High,0,23,0
+Deep Work,2.0,Low,1,0,2
+Errands,1.0,Medium,1,1,2
+Exercise,1.0,Low,1,2,3
+Errands,1.5,Low,1,3,4
+Exercise,0.5,High,1,4,4
+Errands,1.5,High,1,5,6
+Errands,1.0,Medium,1,6,7
+Social,1.0,High,1,7,8
+Errands,0.5,Medium,1,8,8
+Errands,1.5,Medium,1,9,10
+Errands,0.5,Medium,1,10,10
+Meeting,3.0,Medium,1,11,14
+Meeting,1.5,High,1,12,13
+Meeting,1.0,High,1,13,14
+Social,2.0,High,1,14,16
+Exercise,1.5,Low,1,15,16
+Meeting,1.5,Low,1,16,17
+Errands,3.0,High,1,17,20
+Exercise,1.5,High,1,18,19
+Errands,2.0,Low,1,19,21
+Errands,1.5,High,1,20,21
+Errands,1.0,High,1,21,22
+Exercise,2.0,Low,1,22,0
+Errands,1.0,High,1,23,0

@@ -1,0 +1,1001 @@
+Task Type,Duration (hrs),Priority,Location,Preferred Time of Day,Day of Week,Special Dates,Scheduled Time,Slot Adjustment
+Social,2.0,Low,Various,Afternoon,Friday,Anniversary,4:00 PM,Moved Earlier
+Errands,2.0,Low,Home Office,Afternoon,Wednesday,Holiday,9:00 AM,No Change
+Deep Work,2.0,Medium,Cafe,Morning,Thursday,None,2:00 PM,Moved Later
+Errands,2.0,High,Office,Afternoon,Thursday,None,9:00 AM,Moved Earlier
+Errands,3.0,Medium,Various,Morning,Saturday,Holiday,9:00 AM,Moved Later
+Exercise,3.0,High,Home Office,Morning,Tuesday,None,4:00 PM,Moved Later
+Deep Work,1.0,High,Cafe,Afternoon,Monday,Holiday,3:00 PM,No Change
+Deep Work,0.5,High,Cafe,Afternoon,Wednesday,Birthday,11:00 AM,No Change
+Deep Work,2.0,Medium,Cafe,Morning,Thursday,Holiday,2:00 PM,Moved Earlier
+Errands,1.0,High,Cafe,Morning,Tuesday,None,5:00 PM,No Change
+Social,0.5,Medium,Cafe,Evening,Friday,Holiday,3:00 PM,Moved Earlier
+Deep Work,1.5,Low,Various,Morning,Thursday,Anniversary,11:00 AM,Moved Later
+Errands,3.0,Low,Home Office,Evening,Tuesday,Birthday,2:00 PM,Moved Later
+Exercise,0.5,High,Cafe,Evening,Monday,Birthday,12:00 PM,Moved Earlier
+Social,1.5,Medium,Gym,Evening,Monday,Holiday,11:00 AM,Moved Later
+Exercise,0.5,Low,Gym,Afternoon,Thursday,None,5:00 PM,No Change
+Social,3.0,Medium,Home Office,Afternoon,Sunday,Anniversary,6:00 PM,Moved Later
+Errands,3.0,Medium,Office,Morning,Thursday,Birthday,10:00 AM,No Change
+Meeting,1.0,High,Office,Evening,Saturday,Birthday,9:00 AM,Moved Earlier
+Social,2.0,Low,Office,Afternoon,Wednesday,None,10:00 AM,Moved Earlier
+Exercise,0.5,High,Gym,Afternoon,Tuesday,None,3:00 PM,Moved Later
+Errands,0.5,High,Office,Afternoon,Thursday,Anniversary,6:00 PM,Moved Later
+Social,1.5,Low,Various,Afternoon,Wednesday,Holiday,9:00 AM,No Change
+Meeting,3.0,Low,Cafe,Afternoon,Saturday,None,2:00 PM,No Change
+Meeting,0.5,Medium,Gym,Evening,Wednesday,Holiday,3:00 PM,Moved Later
+Deep Work,3.0,Low,Home Office,Evening,Thursday,Anniversary,5:00 PM,Moved Later
+Deep Work,0.5,Medium,Home Office,Evening,Monday,Holiday,4:00 PM,Moved Earlier
+Exercise,1.0,Medium,Cafe,Evening,Tuesday,Birthday,2:00 PM,Moved Earlier
+Social,2.0,Medium,Gym,Morning,Tuesday,Holiday,11:00 AM,Moved Earlier
+Social,0.5,Low,Office,Evening,Monday,Anniversary,4:00 PM,Moved Later
+Deep Work,3.0,High,Office,Afternoon,Sunday,Anniversary,3:00 PM,Moved Later
+Social,1.0,Medium,Various,Evening,Thursday,Anniversary,11:00 AM,Moved Later
+Social,0.5,High,Various,Morning,Tuesday,Holiday,5:00 PM,Moved Earlier
+Meeting,1.5,High,Office,Afternoon,Thursday,Birthday,10:00 AM,Moved Later
+Deep Work,2.0,Low,Home Office,Evening,Saturday,None,11:00 AM,No Change
+Errands,0.5,High,Home Office,Evening,Thursday,Birthday,10:00 AM,Moved Later
+Deep Work,1.0,High,Various,Evening,Wednesday,Holiday,9:00 AM,Moved Later
+Errands,1.5,Low,Cafe,Afternoon,Monday,Holiday,12:00 PM,Moved Later
+Meeting,1.0,Medium,Office,Afternoon,Sunday,None,1:00 PM,Moved Later
+Exercise,1.0,High,Various,Morning,Thursday,Holiday,2:00 PM,Moved Later
+Social,1.5,Low,Various,Afternoon,Sunday,Anniversary,1:00 PM,No Change
+Meeting,1.0,High,Office,Afternoon,Sunday,Anniversary,9:00 AM,No Change
+Social,1.5,High,Office,Evening,Saturday,Anniversary,11:00 AM,Moved Later
+Exercise,0.5,Medium,Home Office,Afternoon,Friday,Anniversary,9:00 AM,Moved Earlier
+Exercise,1.5,High,Cafe,Evening,Monday,Anniversary,1:00 PM,Moved Later
+Meeting,1.5,Low,Cafe,Evening,Sunday,Holiday,1:00 PM,Moved Later
+Exercise,2.0,High,Office,Afternoon,Tuesday,None,2:00 PM,Moved Later
+Errands,1.5,Medium,Gym,Morning,Wednesday,None,4:00 PM,Moved Earlier
+Exercise,1.5,Medium,Various,Morning,Tuesday,Anniversary,6:00 PM,Moved Earlier
+Social,0.5,Low,Various,Afternoon,Saturday,Holiday,9:00 AM,Moved Earlier
+Social,2.0,Medium,Office,Morning,Saturday,Birthday,12:00 PM,No Change
+Social,3.0,High,Gym,Evening,Tuesday,Birthday,6:00 PM,Moved Earlier
+Social,0.5,Medium,Home Office,Evening,Monday,Holiday,9:00 AM,No Change
+Errands,0.5,Low,Office,Afternoon,Tuesday,Anniversary,5:00 PM,No Change
+Deep Work,3.0,Medium,Office,Morning,Thursday,None,3:00 PM,Moved Earlier
+Meeting,1.5,Medium,Various,Morning,Tuesday,Holiday,3:00 PM,Moved Earlier
+Social,1.0,Medium,Office,Evening,Wednesday,Birthday,1:00 PM,Moved Earlier
+Exercise,2.0,Low,Office,Afternoon,Wednesday,Birthday,3:00 PM,No Change
+Social,1.0,Medium,Office,Morning,Friday,Birthday,10:00 AM,Moved Later
+Exercise,3.0,Medium,Various,Afternoon,Wednesday,Anniversary,12:00 PM,Moved Earlier
+Exercise,0.5,High,Home Office,Morning,Tuesday,Birthday,3:00 PM,Moved Earlier
+Social,0.5,Low,Home Office,Evening,Wednesday,Holiday,11:00 AM,Moved Earlier
+Errands,2.0,Medium,Office,Evening,Monday,Holiday,10:00 AM,No Change
+Exercise,0.5,Low,Various,Afternoon,Sunday,Birthday,6:00 PM,No Change
+Exercise,0.5,Medium,Home Office,Evening,Wednesday,Holiday,10:00 AM,Moved Later
+Social,2.0,Medium,Home Office,Morning,Thursday,Birthday,9:00 AM,Moved Earlier
+Exercise,2.0,Medium,Home Office,Evening,Monday,Birthday,1:00 PM,No Change
+Exercise,3.0,High,Various,Afternoon,Friday,None,2:00 PM,Moved Later
+Social,0.5,High,Various,Afternoon,Thursday,Anniversary,2:00 PM,Moved Earlier
+Social,0.5,High,Office,Afternoon,Tuesday,Anniversary,5:00 PM,No Change
+Meeting,3.0,Low,Cafe,Morning,Sunday,None,12:00 PM,Moved Earlier
+Errands,1.5,Low,Home Office,Morning,Tuesday,None,9:00 AM,Moved Earlier
+Errands,1.5,High,Cafe,Morning,Sunday,Anniversary,2:00 PM,No Change
+Exercise,1.5,Low,Various,Morning,Sunday,Birthday,1:00 PM,No Change
+Errands,3.0,Medium,Various,Morning,Tuesday,Birthday,6:00 PM,No Change
+Exercise,0.5,Medium,Various,Evening,Thursday,Anniversary,2:00 PM,Moved Earlier
+Meeting,3.0,Medium,Cafe,Morning,Thursday,Birthday,11:00 AM,Moved Earlier
+Social,3.0,High,Various,Morning,Sunday,None,10:00 AM,Moved Later
+Social,1.5,Low,Office,Evening,Thursday,Birthday,2:00 PM,Moved Earlier
+Social,1.0,High,Various,Morning,Sunday,Birthday,9:00 AM,No Change
+Errands,0.5,Low,Gym,Afternoon,Sunday,Holiday,3:00 PM,Moved Earlier
+Meeting,1.5,Medium,Cafe,Morning,Monday,Holiday,3:00 PM,Moved Later
+Errands,1.0,High,Gym,Morning,Saturday,Holiday,6:00 PM,Moved Later
+Errands,1.0,Low,Various,Afternoon,Monday,Birthday,3:00 PM,No Change
+Meeting,2.0,Low,Office,Afternoon,Tuesday,Anniversary,6:00 PM,No Change
+Meeting,0.5,Medium,Home Office,Afternoon,Saturday,None,9:00 AM,Moved Later
+Meeting,1.0,High,Various,Afternoon,Wednesday,Birthday,12:00 PM,Moved Later
+Meeting,1.5,High,Office,Morning,Tuesday,Anniversary,3:00 PM,Moved Later
+Social,2.0,High,Cafe,Afternoon,Friday,Birthday,5:00 PM,No Change
+Deep Work,0.5,Medium,Gym,Afternoon,Monday,None,1:00 PM,Moved Later
+Deep Work,3.0,High,Gym,Evening,Thursday,Birthday,10:00 AM,Moved Later
+Meeting,1.5,Medium,Gym,Afternoon,Monday,None,3:00 PM,No Change
+Deep Work,1.0,Medium,Cafe,Afternoon,Thursday,Birthday,6:00 PM,Moved Earlier
+Deep Work,1.0,Medium,Office,Evening,Saturday,None,9:00 AM,Moved Earlier
+Meeting,1.5,Low,Cafe,Evening,Friday,Birthday,3:00 PM,Moved Later
+Deep Work,1.0,High,Gym,Morning,Saturday,None,2:00 PM,Moved Earlier
+Errands,2.0,High,Various,Evening,Friday,Holiday,3:00 PM,Moved Earlier
+Exercise,0.5,Medium,Home Office,Morning,Monday,Birthday,6:00 PM,Moved Earlier
+Exercise,2.0,Medium,Cafe,Evening,Thursday,Birthday,11:00 AM,Moved Earlier
+Meeting,1.0,High,Cafe,Evening,Saturday,Anniversary,11:00 AM,Moved Later
+Social,3.0,Medium,Office,Morning,Friday,Anniversary,3:00 PM,Moved Earlier
+Meeting,0.5,High,Office,Evening,Sunday,None,10:00 AM,Moved Earlier
+Social,0.5,Low,Cafe,Morning,Tuesday,Birthday,9:00 AM,No Change
+Exercise,1.5,Medium,Gym,Evening,Tuesday,None,5:00 PM,Moved Later
+Meeting,1.5,High,Home Office,Afternoon,Saturday,Holiday,5:00 PM,No Change
+Errands,3.0,Medium,Office,Evening,Thursday,Anniversary,3:00 PM,No Change
+Deep Work,0.5,High,Gym,Morning,Sunday,None,3:00 PM,Moved Later
+Social,3.0,High,Various,Evening,Saturday,None,11:00 AM,Moved Earlier
+Deep Work,1.5,Medium,Office,Morning,Monday,Anniversary,6:00 PM,No Change
+Deep Work,1.5,Low,Gym,Morning,Friday,Birthday,10:00 AM,Moved Later
+Meeting,0.5,High,Gym,Afternoon,Monday,None,3:00 PM,Moved Earlier
+Deep Work,2.0,High,Home Office,Afternoon,Tuesday,Anniversary,5:00 PM,Moved Later
+Errands,1.0,High,Home Office,Morning,Friday,Birthday,9:00 AM,No Change
+Deep Work,1.5,Low,Various,Evening,Saturday,Holiday,12:00 PM,Moved Earlier
+Meeting,1.5,Low,Gym,Morning,Monday,Anniversary,2:00 PM,Moved Earlier
+Errands,2.0,Medium,Gym,Morning,Wednesday,None,3:00 PM,Moved Later
+Exercise,2.0,Low,Home Office,Evening,Thursday,Holiday,6:00 PM,Moved Earlier
+Deep Work,3.0,Medium,Office,Evening,Sunday,Birthday,3:00 PM,No Change
+Meeting,3.0,Medium,Office,Evening,Sunday,Birthday,6:00 PM,No Change
+Exercise,1.0,Low,Cafe,Evening,Thursday,Anniversary,10:00 AM,No Change
+Exercise,1.0,Medium,Home Office,Morning,Wednesday,Anniversary,12:00 PM,Moved Later
+Social,0.5,Low,Cafe,Morning,Tuesday,Anniversary,1:00 PM,Moved Earlier
+Errands,3.0,Medium,Home Office,Afternoon,Friday,Birthday,9:00 AM,Moved Earlier
+Deep Work,1.5,Low,Various,Morning,Thursday,Holiday,9:00 AM,Moved Earlier
+Meeting,3.0,Low,Gym,Evening,Wednesday,Birthday,6:00 PM,No Change
+Social,1.5,Medium,Various,Afternoon,Saturday,None,11:00 AM,Moved Earlier
+Errands,2.0,High,Home Office,Evening,Sunday,Birthday,6:00 PM,No Change
+Social,3.0,Medium,Gym,Morning,Wednesday,None,11:00 AM,Moved Earlier
+Errands,2.0,Low,Office,Afternoon,Tuesday,Holiday,4:00 PM,No Change
+Errands,1.0,High,Office,Evening,Tuesday,Anniversary,5:00 PM,Moved Earlier
+Deep Work,1.0,Medium,Cafe,Afternoon,Monday,Anniversary,9:00 AM,Moved Later
+Errands,0.5,Medium,Home Office,Afternoon,Thursday,Birthday,10:00 AM,Moved Later
+Social,3.0,Medium,Home Office,Morning,Monday,Anniversary,6:00 PM,No Change
+Errands,2.0,High,Office,Evening,Sunday,Holiday,10:00 AM,No Change
+Deep Work,1.5,Low,Various,Afternoon,Wednesday,Anniversary,12:00 PM,Moved Earlier
+Deep Work,1.0,Medium,Gym,Afternoon,Friday,Birthday,10:00 AM,Moved Earlier
+Social,1.0,Medium,Various,Evening,Friday,Holiday,3:00 PM,Moved Later
+Exercise,1.5,Medium,Various,Afternoon,Tuesday,None,5:00 PM,Moved Earlier
+Exercise,2.0,Medium,Office,Afternoon,Friday,Birthday,3:00 PM,No Change
+Errands,2.0,Medium,Office,Afternoon,Friday,None,2:00 PM,No Change
+Meeting,3.0,Low,Office,Evening,Sunday,Holiday,6:00 PM,No Change
+Errands,3.0,Low,Cafe,Evening,Friday,Birthday,9:00 AM,No Change
+Social,0.5,Medium,Various,Evening,Wednesday,Birthday,6:00 PM,No Change
+Social,1.0,High,Home Office,Evening,Friday,Holiday,5:00 PM,Moved Later
+Social,3.0,Low,Gym,Morning,Saturday,Anniversary,1:00 PM,Moved Later
+Social,2.0,High,Cafe,Afternoon,Friday,Birthday,1:00 PM,No Change
+Social,1.5,Low,Home Office,Evening,Friday,Birthday,2:00 PM,Moved Earlier
+Deep Work,2.0,Medium,Various,Afternoon,Monday,None,5:00 PM,No Change
+Exercise,1.0,Low,Office,Afternoon,Wednesday,Anniversary,4:00 PM,Moved Later
+Social,2.0,Medium,Various,Morning,Tuesday,None,4:00 PM,No Change
+Meeting,0.5,Low,Gym,Evening,Monday,None,4:00 PM,Moved Later
+Meeting,1.0,Medium,Cafe,Evening,Thursday,Anniversary,9:00 AM,Moved Later
+Meeting,1.5,Medium,Cafe,Afternoon,Wednesday,Anniversary,9:00 AM,No Change
+Meeting,0.5,Medium,Gym,Evening,Saturday,Holiday,4:00 PM,No Change
+Deep Work,1.0,Medium,Home Office,Afternoon,Wednesday,Anniversary,1:00 PM,Moved Earlier
+Meeting,1.5,High,Home Office,Afternoon,Thursday,Birthday,5:00 PM,Moved Later
+Social,0.5,Medium,Cafe,Morning,Thursday,Anniversary,10:00 AM,Moved Earlier
+Errands,0.5,High,Cafe,Morning,Thursday,Holiday,5:00 PM,No Change
+Meeting,1.0,High,Office,Morning,Sunday,Holiday,4:00 PM,Moved Later
+Deep Work,3.0,Medium,Home Office,Afternoon,Tuesday,Holiday,5:00 PM,Moved Earlier
+Deep Work,0.5,High,Gym,Evening,Friday,Anniversary,12:00 PM,Moved Earlier
+Meeting,0.5,Low,Home Office,Morning,Wednesday,Anniversary,9:00 AM,Moved Earlier
+Errands,1.5,Medium,Office,Evening,Sunday,None,9:00 AM,No Change
+Meeting,2.0,High,Cafe,Morning,Friday,None,1:00 PM,No Change
+Deep Work,1.0,Medium,Cafe,Morning,Friday,Birthday,10:00 AM,No Change
+Exercise,1.0,Medium,Office,Afternoon,Saturday,None,4:00 PM,Moved Later
+Social,3.0,Medium,Gym,Morning,Thursday,Birthday,6:00 PM,No Change
+Deep Work,3.0,High,Cafe,Morning,Tuesday,Holiday,1:00 PM,Moved Later
+Meeting,1.0,Low,Various,Afternoon,Saturday,None,1:00 PM,Moved Earlier
+Social,3.0,Low,Cafe,Evening,Monday,Anniversary,10:00 AM,Moved Earlier
+Meeting,1.5,High,Various,Morning,Sunday,None,3:00 PM,No Change
+Meeting,1.0,Medium,Office,Afternoon,Sunday,Birthday,4:00 PM,Moved Earlier
+Exercise,3.0,High,Office,Morning,Tuesday,None,6:00 PM,No Change
+Social,1.0,High,Cafe,Afternoon,Friday,Holiday,9:00 AM,Moved Later
+Social,2.0,High,Home Office,Evening,Sunday,Anniversary,10:00 AM,Moved Earlier
+Exercise,0.5,Medium,Various,Evening,Tuesday,Birthday,6:00 PM,No Change
+Deep Work,1.0,High,Gym,Afternoon,Sunday,Anniversary,12:00 PM,Moved Earlier
+Meeting,0.5,Medium,Cafe,Afternoon,Sunday,Anniversary,1:00 PM,Moved Earlier
+Errands,3.0,High,Gym,Afternoon,Thursday,Birthday,10:00 AM,No Change
+Meeting,0.5,Low,Cafe,Evening,Monday,Anniversary,9:00 AM,Moved Earlier
+Meeting,1.0,High,Home Office,Morning,Thursday,Anniversary,5:00 PM,Moved Earlier
+Deep Work,2.0,High,Home Office,Evening,Monday,None,9:00 AM,Moved Earlier
+Meeting,3.0,Low,Home Office,Afternoon,Sunday,Anniversary,12:00 PM,Moved Earlier
+Exercise,1.0,Medium,Home Office,Afternoon,Saturday,Anniversary,10:00 AM,Moved Later
+Exercise,3.0,Medium,Office,Evening,Friday,Anniversary,12:00 PM,Moved Earlier
+Social,1.5,High,Office,Afternoon,Sunday,Anniversary,4:00 PM,Moved Earlier
+Errands,0.5,Low,Various,Evening,Monday,Birthday,4:00 PM,No Change
+Meeting,1.5,Medium,Gym,Afternoon,Monday,Holiday,5:00 PM,Moved Later
+Meeting,1.0,High,Cafe,Morning,Monday,None,1:00 PM,No Change
+Deep Work,2.0,Low,Cafe,Morning,Sunday,Anniversary,3:00 PM,No Change
+Exercise,3.0,Medium,Office,Afternoon,Tuesday,Anniversary,11:00 AM,No Change
+Errands,0.5,Medium,Cafe,Evening,Saturday,Birthday,6:00 PM,Moved Later
+Social,3.0,Low,Office,Morning,Tuesday,Holiday,12:00 PM,No Change
+Exercise,1.0,Low,Various,Evening,Friday,Anniversary,6:00 PM,No Change
+Social,3.0,Low,Gym,Afternoon,Sunday,Birthday,5:00 PM,No Change
+Deep Work,0.5,Low,Various,Evening,Monday,None,6:00 PM,Moved Earlier
+Deep Work,1.0,High,Home Office,Morning,Saturday,None,6:00 PM,No Change
+Meeting,3.0,Low,Home Office,Evening,Saturday,Anniversary,9:00 AM,Moved Later
+Errands,2.0,Medium,Home Office,Evening,Wednesday,Anniversary,10:00 AM,Moved Later
+Social,1.0,Medium,Various,Afternoon,Friday,Holiday,1:00 PM,Moved Earlier
+Exercise,1.0,High,Cafe,Afternoon,Saturday,Holiday,11:00 AM,Moved Later
+Deep Work,2.0,Medium,Gym,Afternoon,Sunday,Anniversary,10:00 AM,Moved Later
+Meeting,1.5,Medium,Home Office,Morning,Monday,Birthday,9:00 AM,Moved Earlier
+Meeting,0.5,Low,Home Office,Morning,Monday,Holiday,6:00 PM,No Change
+Social,1.5,Medium,Home Office,Afternoon,Saturday,Anniversary,11:00 AM,Moved Earlier
+Deep Work,3.0,High,Gym,Afternoon,Tuesday,Holiday,9:00 AM,No Change
+Errands,2.0,Low,Home Office,Morning,Friday,Anniversary,9:00 AM,No Change
+Deep Work,1.5,Low,Gym,Morning,Monday,None,9:00 AM,Moved Later
+Social,1.0,High,Home Office,Morning,Saturday,Anniversary,4:00 PM,Moved Earlier
+Social,3.0,Low,Various,Morning,Monday,None,11:00 AM,Moved Later
+Deep Work,3.0,Low,Various,Afternoon,Saturday,Holiday,9:00 AM,Moved Later
+Social,1.5,High,Gym,Morning,Friday,Anniversary,3:00 PM,No Change
+Deep Work,1.5,Low,Various,Afternoon,Saturday,Holiday,6:00 PM,Moved Later
+Exercise,2.0,High,Gym,Evening,Wednesday,None,11:00 AM,Moved Earlier
+Deep Work,0.5,High,Various,Evening,Saturday,Anniversary,4:00 PM,Moved Later
+Deep Work,1.5,Medium,Various,Morning,Saturday,Holiday,12:00 PM,Moved Later
+Social,1.5,Medium,Gym,Evening,Sunday,None,12:00 PM,No Change
+Social,1.0,Low,Cafe,Evening,Friday,Holiday,1:00 PM,Moved Earlier
+Meeting,3.0,Low,Various,Evening,Sunday,Birthday,2:00 PM,Moved Later
+Meeting,0.5,High,Home Office,Morning,Saturday,None,3:00 PM,No Change
+Exercise,1.0,Low,Cafe,Morning,Friday,None,12:00 PM,Moved Later
+Meeting,2.0,High,Gym,Evening,Wednesday,None,4:00 PM,Moved Earlier
+Deep Work,2.0,High,Cafe,Afternoon,Friday,Anniversary,2:00 PM,Moved Later
+Social,1.5,Low,Office,Evening,Monday,Anniversary,9:00 AM,Moved Later
+Meeting,1.5,High,Office,Morning,Sunday,Anniversary,9:00 AM,No Change
+Meeting,2.0,Medium,Various,Morning,Friday,Birthday,5:00 PM,Moved Later
+Exercise,1.5,Low,Various,Morning,Wednesday,Birthday,6:00 PM,No Change
+Exercise,0.5,Medium,Home Office,Evening,Thursday,None,2:00 PM,Moved Earlier
+Deep Work,1.5,Low,Cafe,Afternoon,Saturday,Birthday,6:00 PM,Moved Later
+Social,3.0,High,Office,Morning,Friday,Holiday,4:00 PM,Moved Earlier
+Exercise,1.5,Low,Various,Morning,Saturday,None,3:00 PM,Moved Earlier
+Meeting,1.0,Medium,Cafe,Evening,Tuesday,None,2:00 PM,Moved Later
+Social,0.5,High,Various,Afternoon,Monday,Holiday,12:00 PM,No Change
+Social,1.0,Low,Various,Evening,Sunday,None,3:00 PM,Moved Earlier
+Meeting,1.0,Low,Office,Morning,Monday,Birthday,5:00 PM,Moved Earlier
+Exercise,3.0,Low,Office,Afternoon,Tuesday,Anniversary,6:00 PM,Moved Later
+Meeting,0.5,Medium,Various,Afternoon,Tuesday,Holiday,6:00 PM,Moved Later
+Social,0.5,Medium,Gym,Morning,Sunday,Birthday,3:00 PM,Moved Later
+Errands,0.5,Low,Various,Afternoon,Friday,Holiday,9:00 AM,Moved Later
+Errands,0.5,High,Various,Afternoon,Tuesday,Holiday,6:00 PM,Moved Later
+Deep Work,0.5,High,Home Office,Evening,Thursday,None,5:00 PM,Moved Later
+Meeting,3.0,Medium,Home Office,Morning,Saturday,None,12:00 PM,No Change
+Meeting,1.5,High,Home Office,Morning,Saturday,Birthday,11:00 AM,Moved Earlier
+Deep Work,1.0,Medium,Gym,Morning,Wednesday,Holiday,12:00 PM,No Change
+Deep Work,0.5,Low,Gym,Morning,Tuesday,None,12:00 PM,No Change
+Deep Work,1.5,Medium,Various,Morning,Tuesday,None,6:00 PM,Moved Later
+Social,1.5,Medium,Home Office,Afternoon,Thursday,Holiday,10:00 AM,Moved Earlier
+Meeting,1.0,Low,Gym,Evening,Monday,Birthday,9:00 AM,No Change
+Social,3.0,High,Office,Morning,Monday,Birthday,6:00 PM,Moved Later
+Deep Work,2.0,Medium,Various,Evening,Saturday,Holiday,9:00 AM,Moved Later
+Meeting,2.0,Medium,Cafe,Evening,Saturday,Birthday,4:00 PM,Moved Earlier
+Social,1.5,Low,Various,Afternoon,Friday,None,10:00 AM,No Change
+Social,1.0,High,Cafe,Morning,Sunday,Holiday,6:00 PM,No Change
+Deep Work,2.0,Medium,Home Office,Afternoon,Thursday,None,1:00 PM,No Change
+Meeting,1.5,Low,Cafe,Morning,Sunday,Anniversary,12:00 PM,Moved Later
+Deep Work,3.0,Medium,Home Office,Afternoon,Sunday,Anniversary,4:00 PM,Moved Earlier
+Meeting,2.0,Low,Office,Evening,Wednesday,Birthday,10:00 AM,Moved Earlier
+Errands,1.5,High,Cafe,Morning,Sunday,Anniversary,6:00 PM,No Change
+Exercise,1.5,High,Various,Evening,Wednesday,None,5:00 PM,Moved Later
+Exercise,0.5,High,Home Office,Evening,Sunday,Anniversary,3:00 PM,No Change
+Exercise,3.0,High,Various,Afternoon,Thursday,None,3:00 PM,Moved Earlier
+Deep Work,0.5,Medium,Gym,Morning,Wednesday,Birthday,9:00 AM,Moved Later
+Errands,1.0,Medium,Home Office,Evening,Monday,Birthday,10:00 AM,No Change
+Meeting,0.5,High,Cafe,Afternoon,Wednesday,None,12:00 PM,No Change
+Social,0.5,High,Home Office,Morning,Wednesday,Anniversary,12:00 PM,Moved Later
+Meeting,2.0,High,Various,Morning,Thursday,Birthday,11:00 AM,Moved Earlier
+Social,1.5,Medium,Office,Evening,Thursday,Holiday,3:00 PM,Moved Later
+Meeting,3.0,High,Home Office,Morning,Wednesday,Birthday,4:00 PM,No Change
+Errands,0.5,High,Cafe,Evening,Tuesday,Anniversary,10:00 AM,No Change
+Social,3.0,High,Gym,Morning,Thursday,Holiday,12:00 PM,No Change
+Deep Work,0.5,Low,Office,Afternoon,Friday,Anniversary,11:00 AM,No Change
+Meeting,1.0,High,Gym,Evening,Friday,None,10:00 AM,Moved Earlier
+Meeting,0.5,Low,Home Office,Evening,Monday,Holiday,2:00 PM,Moved Earlier
+Social,2.0,Low,Various,Morning,Sunday,Anniversary,12:00 PM,No Change
+Deep Work,1.5,High,Various,Morning,Wednesday,Holiday,2:00 PM,Moved Earlier
+Deep Work,1.0,Low,Cafe,Evening,Tuesday,Anniversary,10:00 AM,Moved Earlier
+Errands,0.5,High,Various,Morning,Monday,Holiday,12:00 PM,Moved Earlier
+Deep Work,3.0,Medium,Office,Afternoon,Wednesday,Anniversary,2:00 PM,No Change
+Deep Work,1.0,Medium,Various,Morning,Thursday,None,1:00 PM,Moved Later
+Deep Work,1.0,Medium,Cafe,Afternoon,Friday,Holiday,11:00 AM,Moved Later
+Exercise,0.5,Medium,Home Office,Afternoon,Saturday,Holiday,4:00 PM,Moved Later
+Errands,1.0,Low,Home Office,Afternoon,Tuesday,Holiday,3:00 PM,No Change
+Meeting,3.0,High,Various,Afternoon,Saturday,Holiday,11:00 AM,Moved Earlier
+Social,1.0,High,Gym,Afternoon,Friday,None,2:00 PM,Moved Earlier
+Meeting,3.0,High,Home Office,Morning,Sunday,Holiday,12:00 PM,No Change
+Errands,0.5,Medium,Various,Afternoon,Sunday,Birthday,1:00 PM,No Change
+Social,1.5,Medium,Cafe,Morning,Saturday,None,1:00 PM,Moved Later
+Errands,1.0,High,Various,Afternoon,Thursday,Birthday,3:00 PM,Moved Later
+Deep Work,1.5,Medium,Home Office,Evening,Wednesday,Holiday,1:00 PM,No Change
+Social,3.0,High,Cafe,Afternoon,Thursday,Anniversary,11:00 AM,Moved Later
+Deep Work,1.0,High,Various,Evening,Saturday,Birthday,6:00 PM,Moved Earlier
+Meeting,2.0,High,Office,Afternoon,Thursday,Holiday,1:00 PM,No Change
+Meeting,1.5,High,Cafe,Afternoon,Friday,Birthday,3:00 PM,No Change
+Social,1.0,High,Office,Afternoon,Tuesday,Holiday,1:00 PM,Moved Earlier
+Social,1.5,High,Gym,Evening,Thursday,Holiday,1:00 PM,Moved Earlier
+Errands,1.0,High,Cafe,Evening,Friday,Holiday,5:00 PM,Moved Earlier
+Errands,0.5,Medium,Office,Afternoon,Tuesday,Anniversary,11:00 AM,Moved Later
+Deep Work,1.5,High,Home Office,Morning,Sunday,Birthday,2:00 PM,No Change
+Social,2.0,High,Home Office,Afternoon,Wednesday,None,9:00 AM,Moved Later
+Meeting,2.0,Medium,Gym,Evening,Saturday,None,6:00 PM,Moved Earlier
+Errands,3.0,Medium,Cafe,Afternoon,Sunday,None,1:00 PM,Moved Later
+Errands,1.0,Medium,Cafe,Evening,Wednesday,None,4:00 PM,Moved Earlier
+Meeting,1.5,High,Cafe,Evening,Sunday,Holiday,1:00 PM,Moved Later
+Errands,3.0,Low,Gym,Evening,Monday,Birthday,5:00 PM,Moved Later
+Deep Work,1.5,Low,Cafe,Afternoon,Sunday,Birthday,2:00 PM,Moved Earlier
+Social,1.0,Medium,Home Office,Evening,Friday,Anniversary,4:00 PM,Moved Later
+Meeting,2.0,Low,Office,Evening,Tuesday,Birthday,6:00 PM,No Change
+Social,0.5,Medium,Home Office,Afternoon,Sunday,Birthday,4:00 PM,Moved Later
+Errands,2.0,High,Home Office,Evening,Thursday,Birthday,11:00 AM,Moved Later
+Errands,3.0,Low,Office,Afternoon,Wednesday,Anniversary,3:00 PM,No Change
+Meeting,0.5,High,Home Office,Evening,Sunday,None,3:00 PM,Moved Earlier
+Deep Work,3.0,Low,Gym,Morning,Tuesday,Birthday,6:00 PM,No Change
+Exercise,1.0,High,Office,Morning,Friday,Anniversary,2:00 PM,Moved Later
+Meeting,0.5,Low,Home Office,Evening,Monday,Anniversary,3:00 PM,Moved Earlier
+Exercise,3.0,High,Various,Morning,Wednesday,Holiday,10:00 AM,Moved Later
+Exercise,1.0,High,Home Office,Afternoon,Saturday,Anniversary,5:00 PM,Moved Later
+Deep Work,2.0,Low,Gym,Morning,Tuesday,None,6:00 PM,No Change
+Exercise,1.0,High,Cafe,Evening,Saturday,Birthday,6:00 PM,No Change
+Exercise,1.5,High,Home Office,Evening,Tuesday,Anniversary,9:00 AM,Moved Earlier
+Deep Work,1.0,High,Cafe,Afternoon,Tuesday,None,9:00 AM,Moved Earlier
+Exercise,1.0,Low,Various,Evening,Friday,Anniversary,11:00 AM,Moved Earlier
+Exercise,1.5,Low,Home Office,Afternoon,Friday,Anniversary,11:00 AM,Moved Later
+Exercise,3.0,High,Office,Morning,Friday,Anniversary,9:00 AM,No Change
+Meeting,3.0,High,Cafe,Morning,Sunday,Anniversary,3:00 PM,No Change
+Meeting,1.0,Low,Various,Afternoon,Thursday,Anniversary,12:00 PM,No Change
+Meeting,1.5,Low,Office,Afternoon,Tuesday,None,6:00 PM,Moved Earlier
+Deep Work,1.5,High,Office,Evening,Wednesday,Birthday,10:00 AM,No Change
+Errands,2.0,High,Office,Morning,Saturday,Birthday,6:00 PM,No Change
+Exercise,3.0,High,Office,Afternoon,Friday,Birthday,1:00 PM,No Change
+Exercise,0.5,Medium,Home Office,Morning,Sunday,Birthday,2:00 PM,Moved Earlier
+Deep Work,3.0,Low,Home Office,Afternoon,Friday,None,5:00 PM,No Change
+Exercise,3.0,Medium,Home Office,Morning,Saturday,Holiday,12:00 PM,Moved Earlier
+Meeting,2.0,Low,Various,Evening,Saturday,Holiday,10:00 AM,No Change
+Errands,0.5,Low,Various,Morning,Tuesday,None,1:00 PM,No Change
+Social,2.0,Low,Various,Morning,Friday,None,11:00 AM,No Change
+Exercise,0.5,Low,Gym,Morning,Saturday,Anniversary,10:00 AM,Moved Earlier
+Meeting,1.0,Low,Various,Morning,Thursday,Anniversary,9:00 AM,Moved Earlier
+Social,0.5,Low,Home Office,Morning,Thursday,Anniversary,6:00 PM,No Change
+Errands,2.0,Low,Home Office,Evening,Friday,Birthday,10:00 AM,Moved Later
+Social,3.0,Medium,Gym,Afternoon,Sunday,Anniversary,2:00 PM,Moved Earlier
+Meeting,0.5,High,Gym,Morning,Saturday,Holiday,4:00 PM,Moved Earlier
+Social,0.5,High,Various,Evening,Tuesday,Birthday,11:00 AM,No Change
+Deep Work,1.5,Medium,Cafe,Morning,Tuesday,Anniversary,5:00 PM,Moved Later
+Social,3.0,Medium,Gym,Morning,Sunday,Birthday,5:00 PM,No Change
+Exercise,1.0,Medium,Office,Afternoon,Tuesday,Holiday,10:00 AM,Moved Earlier
+Exercise,2.0,Medium,Home Office,Morning,Monday,Anniversary,4:00 PM,Moved Earlier
+Deep Work,1.0,Low,Office,Evening,Friday,Holiday,6:00 PM,No Change
+Meeting,3.0,High,Home Office,Evening,Tuesday,Holiday,1:00 PM,No Change
+Exercise,0.5,Low,Home Office,Afternoon,Thursday,Holiday,12:00 PM,Moved Later
+Errands,0.5,High,Gym,Morning,Saturday,Anniversary,6:00 PM,Moved Later
+Exercise,3.0,High,Gym,Evening,Wednesday,None,1:00 PM,Moved Earlier
+Exercise,0.5,Medium,Office,Morning,Sunday,Anniversary,12:00 PM,Moved Later
+Meeting,0.5,Low,Home Office,Morning,Wednesday,Holiday,4:00 PM,Moved Later
+Social,0.5,Medium,Office,Morning,Tuesday,Anniversary,12:00 PM,Moved Earlier
+Exercise,2.0,Low,Cafe,Afternoon,Wednesday,Holiday,6:00 PM,Moved Earlier
+Deep Work,2.0,High,Office,Morning,Wednesday,None,2:00 PM,Moved Earlier
+Social,1.5,Medium,Various,Evening,Monday,Birthday,10:00 AM,Moved Earlier
+Errands,1.0,Medium,Office,Morning,Thursday,None,1:00 PM,No Change
+Meeting,3.0,High,Various,Evening,Sunday,None,2:00 PM,Moved Earlier
+Errands,3.0,High,Various,Morning,Thursday,Birthday,1:00 PM,Moved Earlier
+Social,3.0,High,Various,Evening,Monday,Anniversary,10:00 AM,Moved Earlier
+Social,1.5,Medium,Cafe,Evening,Monday,Birthday,3:00 PM,Moved Later
+Social,2.0,Low,Office,Morning,Wednesday,Anniversary,12:00 PM,Moved Earlier
+Errands,1.5,Medium,Office,Morning,Friday,Anniversary,4:00 PM,No Change
+Social,3.0,Low,Cafe,Evening,Saturday,Holiday,3:00 PM,No Change
+Errands,1.0,Medium,Home Office,Afternoon,Saturday,Holiday,3:00 PM,Moved Earlier
+Social,0.5,Medium,Gym,Morning,Wednesday,Birthday,5:00 PM,No Change
+Deep Work,2.0,High,Office,Afternoon,Saturday,None,9:00 AM,Moved Later
+Social,2.0,Low,Gym,Morning,Monday,Birthday,6:00 PM,Moved Earlier
+Errands,1.5,Medium,Cafe,Morning,Thursday,Anniversary,2:00 PM,No Change
+Exercise,2.0,Medium,Home Office,Morning,Saturday,Holiday,2:00 PM,No Change
+Social,3.0,High,Home Office,Morning,Sunday,Birthday,2:00 PM,Moved Earlier
+Exercise,3.0,High,Home Office,Afternoon,Wednesday,Birthday,2:00 PM,No Change
+Deep Work,1.5,Low,Cafe,Morning,Friday,Holiday,6:00 PM,Moved Earlier
+Meeting,3.0,Medium,Various,Evening,Wednesday,Holiday,3:00 PM,No Change
+Deep Work,1.0,Low,Various,Evening,Tuesday,Holiday,6:00 PM,Moved Later
+Social,1.5,Medium,Gym,Afternoon,Wednesday,Anniversary,2:00 PM,No Change
+Exercise,1.0,Low,Various,Morning,Monday,Holiday,9:00 AM,No Change
+Exercise,0.5,High,Various,Evening,Thursday,None,11:00 AM,Moved Earlier
+Errands,1.0,Medium,Home Office,Afternoon,Thursday,Birthday,10:00 AM,No Change
+Exercise,0.5,Low,Home Office,Morning,Sunday,Holiday,2:00 PM,Moved Earlier
+Errands,0.5,High,Gym,Evening,Saturday,Holiday,4:00 PM,Moved Later
+Meeting,1.0,High,Office,Evening,Monday,Anniversary,11:00 AM,Moved Earlier
+Social,1.5,Low,Gym,Afternoon,Tuesday,Anniversary,6:00 PM,Moved Earlier
+Errands,3.0,Medium,Gym,Morning,Monday,Birthday,4:00 PM,No Change
+Meeting,3.0,Medium,Cafe,Morning,Wednesday,None,4:00 PM,Moved Later
+Exercise,0.5,High,Cafe,Evening,Monday,Birthday,1:00 PM,Moved Earlier
+Exercise,0.5,Medium,Gym,Evening,Monday,Holiday,4:00 PM,No Change
+Meeting,1.5,Medium,Gym,Evening,Sunday,None,2:00 PM,No Change
+Exercise,2.0,Medium,Gym,Morning,Tuesday,None,1:00 PM,Moved Earlier
+Meeting,1.0,High,Various,Afternoon,Wednesday,None,5:00 PM,No Change
+Errands,0.5,Low,Cafe,Afternoon,Friday,None,3:00 PM,Moved Earlier
+Errands,3.0,Medium,Gym,Morning,Sunday,Birthday,4:00 PM,Moved Earlier
+Meeting,1.5,High,Home Office,Afternoon,Friday,Anniversary,9:00 AM,Moved Earlier
+Errands,1.0,High,Home Office,Evening,Sunday,Anniversary,10:00 AM,Moved Later
+Errands,1.5,Low,Various,Afternoon,Thursday,Holiday,4:00 PM,Moved Earlier
+Errands,1.0,Medium,Various,Afternoon,Sunday,Anniversary,5:00 PM,No Change
+Deep Work,1.0,Medium,Office,Afternoon,Saturday,Anniversary,12:00 PM,Moved Later
+Social,0.5,Low,Office,Evening,Monday,Anniversary,6:00 PM,No Change
+Exercise,1.5,Low,Office,Morning,Thursday,Anniversary,6:00 PM,Moved Later
+Deep Work,1.5,High,Various,Evening,Tuesday,Holiday,5:00 PM,Moved Later
+Errands,3.0,High,Various,Morning,Friday,Birthday,12:00 PM,Moved Later
+Meeting,3.0,Low,Various,Morning,Sunday,None,6:00 PM,Moved Later
+Errands,0.5,Medium,Home Office,Morning,Monday,Anniversary,6:00 PM,No Change
+Social,0.5,High,Various,Afternoon,Tuesday,Birthday,6:00 PM,Moved Earlier
+Errands,2.0,High,Home Office,Afternoon,Saturday,Anniversary,5:00 PM,No Change
+Meeting,3.0,Medium,Office,Morning,Tuesday,Anniversary,3:00 PM,Moved Earlier
+Social,1.0,High,Office,Morning,Monday,None,10:00 AM,No Change
+Errands,1.5,Medium,Office,Afternoon,Saturday,None,5:00 PM,Moved Later
+Social,0.5,Medium,Gym,Evening,Tuesday,None,12:00 PM,Moved Later
+Exercise,1.5,Medium,Gym,Morning,Saturday,Anniversary,4:00 PM,Moved Earlier
+Exercise,1.5,Low,Cafe,Evening,Sunday,Anniversary,3:00 PM,Moved Earlier
+Errands,2.0,Low,Cafe,Afternoon,Sunday,Anniversary,3:00 PM,No Change
+Social,3.0,Low,Cafe,Morning,Monday,None,4:00 PM,Moved Earlier
+Meeting,0.5,Medium,Gym,Evening,Monday,Holiday,9:00 AM,No Change
+Errands,1.5,Medium,Gym,Evening,Saturday,Birthday,1:00 PM,Moved Earlier
+Exercise,0.5,Low,Cafe,Evening,Wednesday,Holiday,10:00 AM,Moved Earlier
+Exercise,1.0,High,Cafe,Afternoon,Thursday,Anniversary,10:00 AM,Moved Earlier
+Errands,2.0,Medium,Various,Afternoon,Tuesday,Anniversary,9:00 AM,Moved Later
+Social,1.0,High,Cafe,Evening,Tuesday,Holiday,1:00 PM,Moved Later
+Exercise,0.5,High,Various,Evening,Wednesday,Anniversary,10:00 AM,No Change
+Social,0.5,Medium,Home Office,Afternoon,Wednesday,Birthday,12:00 PM,Moved Earlier
+Exercise,3.0,Medium,Gym,Evening,Wednesday,Anniversary,11:00 AM,No Change
+Exercise,1.5,High,Cafe,Evening,Friday,Birthday,11:00 AM,Moved Earlier
+Deep Work,1.5,High,Gym,Afternoon,Friday,Holiday,10:00 AM,Moved Later
+Exercise,1.0,Low,Gym,Evening,Saturday,Holiday,2:00 PM,Moved Later
+Meeting,2.0,Low,Gym,Evening,Friday,Anniversary,10:00 AM,Moved Earlier
+Errands,1.5,Medium,Home Office,Evening,Sunday,Birthday,4:00 PM,Moved Earlier
+Errands,3.0,Low,Office,Afternoon,Sunday,Anniversary,4:00 PM,Moved Later
+Social,1.0,Low,Cafe,Evening,Monday,None,1:00 PM,Moved Later
+Exercise,1.0,Low,Office,Afternoon,Saturday,None,6:00 PM,No Change
+Meeting,3.0,Low,Office,Afternoon,Tuesday,None,3:00 PM,Moved Later
+Social,2.0,High,Office,Morning,Thursday,None,12:00 PM,Moved Earlier
+Deep Work,3.0,Medium,Gym,Morning,Monday,Anniversary,9:00 AM,No Change
+Social,2.0,Low,Various,Evening,Tuesday,None,10:00 AM,Moved Earlier
+Social,3.0,High,Gym,Afternoon,Tuesday,Birthday,6:00 PM,No Change
+Exercise,3.0,High,Gym,Morning,Saturday,Holiday,6:00 PM,Moved Earlier
+Deep Work,0.5,High,Office,Evening,Wednesday,Holiday,12:00 PM,Moved Later
+Social,1.0,Low,Gym,Morning,Wednesday,None,9:00 AM,Moved Earlier
+Meeting,3.0,Low,Office,Morning,Monday,None,4:00 PM,No Change
+Meeting,3.0,Medium,Various,Afternoon,Wednesday,None,5:00 PM,Moved Earlier
+Errands,1.5,Low,Cafe,Afternoon,Tuesday,Anniversary,12:00 PM,No Change
+Deep Work,1.0,Low,Office,Morning,Wednesday,Holiday,6:00 PM,Moved Earlier
+Deep Work,1.5,High,Various,Morning,Friday,None,11:00 AM,Moved Later
+Errands,1.0,Medium,Cafe,Afternoon,Wednesday,Birthday,10:00 AM,Moved Later
+Social,1.5,Low,Home Office,Evening,Tuesday,None,1:00 PM,Moved Earlier
+Deep Work,3.0,Low,Office,Afternoon,Saturday,Holiday,11:00 AM,Moved Earlier
+Meeting,3.0,High,Office,Morning,Monday,None,6:00 PM,Moved Earlier
+Meeting,0.5,High,Home Office,Evening,Thursday,Holiday,3:00 PM,No Change
+Exercise,1.5,Low,Home Office,Morning,Wednesday,None,2:00 PM,Moved Earlier
+Deep Work,2.0,Medium,Office,Evening,Sunday,Birthday,9:00 AM,Moved Earlier
+Social,0.5,Medium,Home Office,Morning,Sunday,None,4:00 PM,No Change
+Errands,1.5,High,Gym,Evening,Tuesday,Birthday,10:00 AM,Moved Later
+Errands,1.5,High,Cafe,Evening,Thursday,Birthday,1:00 PM,Moved Earlier
+Social,0.5,Low,Cafe,Morning,Thursday,None,5:00 PM,Moved Earlier
+Exercise,3.0,High,Cafe,Evening,Friday,Birthday,4:00 PM,Moved Later
+Errands,1.5,Low,Gym,Afternoon,Thursday,Anniversary,10:00 AM,Moved Later
+Deep Work,3.0,Medium,Home Office,Morning,Sunday,None,5:00 PM,No Change
+Exercise,0.5,Medium,Various,Afternoon,Saturday,None,1:00 PM,Moved Earlier
+Deep Work,3.0,Low,Home Office,Morning,Tuesday,Birthday,6:00 PM,Moved Earlier
+Meeting,1.0,High,Office,Evening,Tuesday,Birthday,2:00 PM,No Change
+Exercise,2.0,Medium,Cafe,Evening,Wednesday,None,11:00 AM,Moved Later
+Errands,1.5,High,Home Office,Evening,Wednesday,Anniversary,11:00 AM,No Change
+Exercise,2.0,Medium,Various,Morning,Wednesday,Birthday,6:00 PM,Moved Later
+Exercise,3.0,Low,Office,Afternoon,Sunday,Birthday,4:00 PM,No Change
+Exercise,1.5,Low,Gym,Afternoon,Sunday,Holiday,6:00 PM,Moved Later
+Exercise,3.0,Low,Gym,Morning,Sunday,Anniversary,6:00 PM,No Change
+Deep Work,1.0,Medium,Various,Morning,Sunday,Anniversary,10:00 AM,Moved Later
+Meeting,0.5,High,Office,Afternoon,Sunday,None,10:00 AM,Moved Later
+Social,1.5,High,Cafe,Afternoon,Sunday,Anniversary,1:00 PM,Moved Later
+Exercise,1.0,High,Home Office,Afternoon,Saturday,None,2:00 PM,Moved Later
+Errands,1.0,Medium,Office,Afternoon,Sunday,Holiday,10:00 AM,Moved Later
+Exercise,1.5,Medium,Gym,Morning,Thursday,Anniversary,1:00 PM,Moved Earlier
+Errands,3.0,Medium,Various,Morning,Thursday,Birthday,3:00 PM,Moved Later
+Deep Work,1.0,Medium,Various,Evening,Friday,Holiday,6:00 PM,Moved Earlier
+Errands,2.0,Medium,Home Office,Afternoon,Saturday,None,6:00 PM,Moved Later
+Social,1.0,High,Various,Evening,Wednesday,Holiday,4:00 PM,Moved Earlier
+Meeting,3.0,Medium,Various,Morning,Monday,None,3:00 PM,Moved Earlier
+Errands,3.0,Medium,Office,Morning,Sunday,Holiday,4:00 PM,No Change
+Errands,2.0,High,Cafe,Evening,Friday,None,5:00 PM,Moved Later
+Meeting,1.0,Medium,Home Office,Afternoon,Monday,Anniversary,1:00 PM,No Change
+Social,3.0,High,Office,Afternoon,Thursday,Birthday,1:00 PM,No Change
+Exercise,1.5,High,Cafe,Afternoon,Friday,None,6:00 PM,Moved Later
+Errands,0.5,Low,Office,Afternoon,Friday,Holiday,12:00 PM,No Change
+Meeting,0.5,Low,Office,Evening,Tuesday,None,5:00 PM,Moved Later
+Deep Work,0.5,Low,Various,Evening,Thursday,None,1:00 PM,No Change
+Meeting,1.0,Low,Cafe,Morning,Thursday,None,10:00 AM,Moved Later
+Deep Work,2.0,Medium,Home Office,Afternoon,Saturday,Holiday,6:00 PM,Moved Later
+Social,3.0,Low,Home Office,Afternoon,Friday,Birthday,4:00 PM,Moved Later
+Exercise,1.5,High,Cafe,Afternoon,Sunday,Anniversary,3:00 PM,Moved Earlier
+Meeting,1.5,Medium,Various,Evening,Thursday,Birthday,4:00 PM,No Change
+Errands,1.0,Low,Gym,Afternoon,Friday,None,11:00 AM,Moved Earlier
+Social,0.5,High,Office,Evening,Saturday,Holiday,12:00 PM,No Change
+Meeting,1.0,Medium,Various,Afternoon,Sunday,Birthday,1:00 PM,No Change
+Errands,2.0,Medium,Cafe,Afternoon,Saturday,None,2:00 PM,No Change
+Meeting,2.0,Low,Office,Morning,Tuesday,Anniversary,9:00 AM,Moved Earlier
+Deep Work,3.0,Medium,Home Office,Afternoon,Sunday,Anniversary,12:00 PM,No Change
+Meeting,3.0,High,Gym,Afternoon,Friday,Anniversary,6:00 PM,Moved Earlier
+Meeting,2.0,Medium,Home Office,Morning,Thursday,None,1:00 PM,Moved Later
+Meeting,2.0,High,Cafe,Evening,Thursday,Holiday,3:00 PM,No Change
+Social,2.0,Medium,Office,Evening,Friday,Birthday,1:00 PM,No Change
+Meeting,1.0,Low,Cafe,Afternoon,Friday,Anniversary,9:00 AM,Moved Later
+Errands,2.0,High,Office,Evening,Friday,None,3:00 PM,Moved Later
+Deep Work,1.5,Medium,Various,Afternoon,Wednesday,None,4:00 PM,No Change
+Deep Work,0.5,Medium,Gym,Morning,Sunday,Birthday,3:00 PM,Moved Later
+Meeting,2.0,Medium,Various,Morning,Thursday,Anniversary,12:00 PM,Moved Earlier
+Social,0.5,High,Various,Afternoon,Sunday,None,4:00 PM,Moved Earlier
+Social,1.0,High,Cafe,Morning,Saturday,Birthday,1:00 PM,No Change
+Errands,0.5,High,Gym,Morning,Thursday,Holiday,6:00 PM,Moved Earlier
+Meeting,1.0,Low,Office,Afternoon,Wednesday,Holiday,5:00 PM,Moved Earlier
+Deep Work,1.5,Low,Office,Afternoon,Friday,Holiday,6:00 PM,No Change
+Social,1.0,High,Home Office,Morning,Tuesday,Anniversary,1:00 PM,Moved Later
+Meeting,1.0,Medium,Office,Evening,Friday,Birthday,9:00 AM,No Change
+Social,3.0,Low,Cafe,Evening,Friday,Birthday,5:00 PM,Moved Earlier
+Social,2.0,High,Various,Afternoon,Wednesday,None,1:00 PM,No Change
+Deep Work,2.0,Medium,Various,Afternoon,Sunday,None,2:00 PM,No Change
+Exercise,1.5,Low,Various,Evening,Thursday,None,12:00 PM,Moved Earlier
+Errands,1.5,Medium,Gym,Morning,Friday,Birthday,2:00 PM,Moved Earlier
+Errands,2.0,Medium,Office,Evening,Thursday,None,4:00 PM,No Change
+Deep Work,3.0,Medium,Cafe,Evening,Monday,Birthday,11:00 AM,Moved Earlier
+Social,2.0,Medium,Gym,Evening,Saturday,Birthday,1:00 PM,Moved Earlier
+Meeting,3.0,Low,Home Office,Evening,Sunday,Holiday,10:00 AM,Moved Earlier
+Social,1.5,Low,Cafe,Afternoon,Thursday,None,10:00 AM,Moved Earlier
+Deep Work,0.5,Low,Cafe,Afternoon,Tuesday,Holiday,3:00 PM,Moved Earlier
+Errands,1.5,High,Cafe,Morning,Saturday,Anniversary,6:00 PM,Moved Earlier
+Social,1.5,Low,Various,Morning,Tuesday,Anniversary,6:00 PM,Moved Later
+Errands,1.0,Medium,Cafe,Morning,Friday,Anniversary,6:00 PM,No Change
+Meeting,1.0,Low,Office,Morning,Saturday,Birthday,2:00 PM,Moved Earlier
+Errands,1.0,Medium,Cafe,Evening,Thursday,Birthday,12:00 PM,No Change
+Errands,1.0,High,Various,Afternoon,Saturday,Birthday,1:00 PM,Moved Later
+Exercise,3.0,Medium,Cafe,Afternoon,Friday,None,9:00 AM,Moved Earlier
+Exercise,2.0,Medium,Home Office,Morning,Wednesday,Holiday,3:00 PM,No Change
+Exercise,0.5,Medium,Home Office,Morning,Sunday,Birthday,4:00 PM,Moved Earlier
+Errands,1.5,High,Various,Evening,Tuesday,Holiday,5:00 PM,Moved Earlier
+Deep Work,3.0,Low,Office,Evening,Friday,Holiday,4:00 PM,Moved Earlier
+Errands,0.5,Low,Office,Morning,Wednesday,Holiday,1:00 PM,Moved Earlier
+Deep Work,3.0,High,Gym,Afternoon,Saturday,None,11:00 AM,Moved Earlier
+Deep Work,3.0,Medium,Various,Afternoon,Saturday,None,6:00 PM,Moved Earlier
+Exercise,1.5,Low,Cafe,Afternoon,Friday,Anniversary,5:00 PM,Moved Earlier
+Social,2.0,High,Various,Morning,Thursday,Anniversary,2:00 PM,Moved Later
+Meeting,1.0,Low,Gym,Afternoon,Saturday,Holiday,1:00 PM,Moved Later
+Exercise,2.0,High,Various,Evening,Thursday,Anniversary,11:00 AM,Moved Earlier
+Exercise,1.5,Medium,Various,Evening,Thursday,Holiday,2:00 PM,Moved Earlier
+Social,1.5,Low,Gym,Morning,Sunday,None,11:00 AM,Moved Later
+Meeting,1.5,High,Office,Evening,Thursday,None,6:00 PM,Moved Later
+Errands,0.5,Low,Cafe,Morning,Monday,None,2:00 PM,Moved Later
+Errands,2.0,Low,Gym,Afternoon,Sunday,Birthday,12:00 PM,Moved Earlier
+Exercise,2.0,Low,Home Office,Afternoon,Wednesday,Holiday,10:00 AM,No Change
+Meeting,3.0,Low,Office,Afternoon,Wednesday,None,4:00 PM,No Change
+Exercise,3.0,High,Home Office,Evening,Saturday,Holiday,12:00 PM,No Change
+Deep Work,3.0,Medium,Office,Morning,Saturday,Anniversary,5:00 PM,No Change
+Exercise,1.5,High,Cafe,Afternoon,Thursday,Anniversary,3:00 PM,Moved Earlier
+Exercise,2.0,High,Cafe,Morning,Sunday,None,10:00 AM,No Change
+Errands,1.5,High,Various,Afternoon,Sunday,Holiday,12:00 PM,Moved Later
+Errands,0.5,Medium,Home Office,Evening,Monday,None,1:00 PM,Moved Later
+Errands,3.0,Low,Office,Evening,Thursday,Anniversary,11:00 AM,No Change
+Deep Work,1.5,Low,Cafe,Morning,Monday,None,5:00 PM,Moved Later
+Errands,1.5,Low,Gym,Evening,Thursday,Holiday,1:00 PM,Moved Earlier
+Meeting,0.5,Medium,Cafe,Evening,Tuesday,Anniversary,10:00 AM,No Change
+Social,1.0,Low,Gym,Morning,Tuesday,Birthday,11:00 AM,No Change
+Meeting,2.0,Medium,Office,Afternoon,Friday,Anniversary,5:00 PM,Moved Earlier
+Meeting,1.0,Low,Cafe,Evening,Thursday,Birthday,3:00 PM,Moved Later
+Errands,3.0,Low,Cafe,Morning,Sunday,None,10:00 AM,Moved Earlier
+Social,1.5,High,Office,Evening,Saturday,None,5:00 PM,Moved Earlier
+Social,0.5,Medium,Cafe,Evening,Wednesday,Holiday,12:00 PM,Moved Later
+Social,0.5,High,Gym,Evening,Friday,Birthday,5:00 PM,Moved Earlier
+Deep Work,2.0,High,Cafe,Evening,Saturday,None,10:00 AM,Moved Later
+Errands,1.0,High,Home Office,Morning,Tuesday,Birthday,6:00 PM,Moved Later
+Social,2.0,Medium,Various,Morning,Thursday,None,12:00 PM,Moved Earlier
+Deep Work,1.5,Medium,Gym,Morning,Friday,Anniversary,1:00 PM,Moved Later
+Exercise,2.0,Low,Home Office,Evening,Thursday,None,10:00 AM,Moved Earlier
+Exercise,0.5,High,Office,Evening,Tuesday,Holiday,6:00 PM,Moved Later
+Deep Work,0.5,Low,Gym,Evening,Friday,Anniversary,9:00 AM,No Change
+Deep Work,3.0,High,Various,Morning,Tuesday,Holiday,3:00 PM,Moved Later
+Errands,3.0,Medium,Various,Evening,Monday,Anniversary,6:00 PM,Moved Later
+Errands,1.5,Medium,Office,Afternoon,Tuesday,Birthday,9:00 AM,Moved Earlier
+Exercise,1.0,Medium,Office,Evening,Sunday,Holiday,4:00 PM,Moved Later
+Social,2.0,High,Gym,Afternoon,Sunday,None,11:00 AM,No Change
+Exercise,1.5,Medium,Cafe,Evening,Thursday,Birthday,6:00 PM,No Change
+Social,3.0,High,Office,Morning,Wednesday,None,2:00 PM,Moved Later
+Social,2.0,Low,Cafe,Evening,Tuesday,Anniversary,3:00 PM,Moved Later
+Errands,3.0,High,Home Office,Afternoon,Saturday,Anniversary,6:00 PM,No Change
+Meeting,2.0,Low,Various,Afternoon,Sunday,None,9:00 AM,Moved Earlier
+Meeting,1.0,High,Cafe,Evening,Wednesday,None,2:00 PM,No Change
+Deep Work,1.5,Low,Various,Afternoon,Monday,Birthday,3:00 PM,No Change
+Errands,2.0,Medium,Cafe,Afternoon,Friday,None,2:00 PM,Moved Later
+Social,0.5,Low,Home Office,Morning,Friday,Holiday,12:00 PM,Moved Later
+Meeting,0.5,Medium,Office,Evening,Sunday,Holiday,9:00 AM,No Change
+Social,2.0,Medium,Home Office,Evening,Wednesday,None,5:00 PM,Moved Earlier
+Meeting,2.0,Low,Office,Evening,Sunday,Holiday,12:00 PM,No Change
+Meeting,2.0,High,Office,Afternoon,Friday,None,3:00 PM,No Change
+Meeting,0.5,High,Various,Evening,Tuesday,Birthday,3:00 PM,Moved Earlier
+Errands,0.5,High,Home Office,Evening,Wednesday,Holiday,10:00 AM,No Change
+Exercise,2.0,High,Cafe,Morning,Thursday,Holiday,9:00 AM,No Change
+Social,3.0,High,Home Office,Morning,Tuesday,None,4:00 PM,Moved Later
+Errands,3.0,Medium,Various,Morning,Tuesday,Holiday,4:00 PM,Moved Earlier
+Errands,1.0,High,Office,Afternoon,Tuesday,Anniversary,3:00 PM,Moved Later
+Errands,1.5,Medium,Various,Evening,Thursday,Birthday,4:00 PM,Moved Later
+Errands,3.0,Medium,Gym,Morning,Monday,Birthday,11:00 AM,Moved Earlier
+Errands,0.5,Medium,Gym,Morning,Saturday,Holiday,10:00 AM,Moved Earlier
+Deep Work,3.0,Low,Cafe,Morning,Sunday,Holiday,3:00 PM,No Change
+Social,1.0,Low,Various,Evening,Friday,Anniversary,4:00 PM,Moved Later
+Errands,1.0,Medium,Cafe,Evening,Sunday,Anniversary,9:00 AM,Moved Earlier
+Social,1.5,Low,Cafe,Evening,Wednesday,Holiday,6:00 PM,Moved Later
+Deep Work,3.0,High,Gym,Afternoon,Monday,Holiday,5:00 PM,Moved Later
+Deep Work,0.5,High,Cafe,Afternoon,Wednesday,Anniversary,12:00 PM,Moved Earlier
+Social,0.5,Medium,Gym,Morning,Sunday,None,12:00 PM,No Change
+Meeting,2.0,High,Office,Evening,Friday,Anniversary,11:00 AM,Moved Later
+Exercise,0.5,Medium,Various,Morning,Thursday,None,2:00 PM,Moved Earlier
+Meeting,1.5,Medium,Cafe,Evening,Sunday,Birthday,9:00 AM,No Change
+Meeting,1.5,High,Gym,Evening,Tuesday,Birthday,2:00 PM,Moved Later
+Meeting,0.5,Low,Home Office,Evening,Sunday,Anniversary,10:00 AM,Moved Earlier
+Errands,0.5,High,Cafe,Afternoon,Tuesday,None,5:00 PM,Moved Later
+Deep Work,2.0,High,Office,Afternoon,Thursday,Anniversary,10:00 AM,Moved Earlier
+Meeting,0.5,Medium,Office,Evening,Sunday,Anniversary,3:00 PM,Moved Earlier
+Deep Work,2.0,Medium,Home Office,Morning,Monday,None,9:00 AM,Moved Later
+Social,2.0,Medium,Gym,Evening,Monday,Anniversary,3:00 PM,Moved Later
+Exercise,0.5,Medium,Cafe,Evening,Wednesday,Birthday,1:00 PM,Moved Earlier
+Social,1.0,Low,Gym,Morning,Thursday,Holiday,4:00 PM,No Change
+Social,1.0,Low,Office,Evening,Monday,Holiday,12:00 PM,Moved Later
+Errands,2.0,Low,Gym,Morning,Sunday,Anniversary,6:00 PM,Moved Earlier
+Exercise,0.5,Medium,Office,Afternoon,Thursday,None,3:00 PM,Moved Earlier
+Social,1.0,Medium,Gym,Afternoon,Friday,None,2:00 PM,No Change
+Social,0.5,Medium,Home Office,Morning,Tuesday,Birthday,1:00 PM,No Change
+Exercise,0.5,Low,Various,Afternoon,Sunday,None,12:00 PM,No Change
+Exercise,0.5,Medium,Home Office,Afternoon,Tuesday,None,3:00 PM,Moved Later
+Social,3.0,High,Home Office,Morning,Tuesday,Birthday,1:00 PM,Moved Earlier
+Exercise,0.5,High,Various,Afternoon,Thursday,Anniversary,1:00 PM,Moved Earlier
+Social,3.0,Medium,Various,Evening,Thursday,Holiday,9:00 AM,Moved Earlier
+Social,2.0,High,Cafe,Evening,Wednesday,Birthday,10:00 AM,No Change
+Errands,1.0,High,Cafe,Morning,Tuesday,Anniversary,1:00 PM,Moved Earlier
+Meeting,1.0,Low,Home Office,Afternoon,Wednesday,Birthday,11:00 AM,Moved Later
+Social,1.0,Medium,Home Office,Evening,Tuesday,Anniversary,10:00 AM,No Change
+Deep Work,1.0,Medium,Office,Evening,Wednesday,Birthday,12:00 PM,No Change
+Meeting,1.0,Low,Office,Afternoon,Wednesday,Anniversary,12:00 PM,No Change
+Meeting,1.0,High,Cafe,Afternoon,Friday,Birthday,12:00 PM,No Change
+Meeting,1.0,High,Cafe,Evening,Wednesday,Anniversary,12:00 PM,Moved Later
+Errands,2.0,Medium,Office,Evening,Thursday,Birthday,11:00 AM,Moved Earlier
+Social,0.5,High,Office,Morning,Wednesday,Holiday,3:00 PM,Moved Later
+Errands,1.5,Low,Gym,Morning,Tuesday,Holiday,5:00 PM,Moved Earlier
+Social,3.0,Low,Gym,Evening,Wednesday,None,1:00 PM,Moved Later
+Errands,1.5,Medium,Office,Morning,Monday,Anniversary,12:00 PM,No Change
+Errands,1.5,Low,Gym,Evening,Saturday,Birthday,10:00 AM,No Change
+Deep Work,0.5,Low,Various,Evening,Tuesday,Anniversary,10:00 AM,Moved Later
+Errands,0.5,Medium,Cafe,Morning,Monday,Holiday,1:00 PM,Moved Later
+Exercise,0.5,Low,Cafe,Morning,Tuesday,Anniversary,3:00 PM,Moved Earlier
+Deep Work,1.0,Low,Office,Afternoon,Thursday,Birthday,6:00 PM,Moved Later
+Errands,2.0,Low,Home Office,Afternoon,Saturday,Anniversary,6:00 PM,Moved Later
+Meeting,1.0,High,Office,Afternoon,Saturday,Birthday,5:00 PM,Moved Earlier
+Exercise,2.0,Medium,Gym,Evening,Thursday,Holiday,3:00 PM,Moved Earlier
+Exercise,2.0,Medium,Home Office,Morning,Saturday,Holiday,1:00 PM,Moved Earlier
+Exercise,1.5,Medium,Gym,Evening,Thursday,Holiday,6:00 PM,Moved Later
+Deep Work,1.5,High,Various,Morning,Monday,None,6:00 PM,Moved Earlier
+Errands,2.0,High,Gym,Evening,Friday,Holiday,6:00 PM,No Change
+Errands,2.0,Medium,Various,Afternoon,Tuesday,Anniversary,2:00 PM,No Change
+Meeting,1.0,High,Various,Afternoon,Thursday,None,11:00 AM,No Change
+Meeting,1.0,Medium,Gym,Afternoon,Tuesday,Holiday,1:00 PM,Moved Later
+Exercise,1.5,High,Gym,Evening,Monday,Anniversary,4:00 PM,No Change
+Meeting,0.5,Low,Various,Morning,Friday,Anniversary,9:00 AM,Moved Later
+Deep Work,2.0,Low,Home Office,Morning,Monday,Anniversary,9:00 AM,Moved Later
+Errands,1.0,Medium,Various,Afternoon,Saturday,Birthday,3:00 PM,No Change
+Exercise,1.5,High,Cafe,Afternoon,Tuesday,None,1:00 PM,Moved Earlier
+Meeting,1.0,High,Various,Afternoon,Sunday,Anniversary,1:00 PM,Moved Later
+Deep Work,2.0,Low,Home Office,Afternoon,Friday,Birthday,9:00 AM,No Change
+Deep Work,2.0,Low,Cafe,Morning,Saturday,Holiday,5:00 PM,Moved Later
+Meeting,3.0,High,Office,Evening,Friday,Anniversary,9:00 AM,Moved Earlier
+Errands,0.5,High,Office,Evening,Saturday,Birthday,1:00 PM,Moved Earlier
+Meeting,3.0,High,Home Office,Evening,Monday,Anniversary,6:00 PM,No Change
+Exercise,1.5,High,Various,Evening,Thursday,None,5:00 PM,Moved Later
+Meeting,1.0,High,Gym,Afternoon,Tuesday,None,12:00 PM,Moved Later
+Deep Work,1.5,High,Home Office,Afternoon,Wednesday,Holiday,4:00 PM,Moved Later
+Meeting,2.0,Medium,Cafe,Afternoon,Wednesday,Anniversary,2:00 PM,Moved Later
+Errands,3.0,High,Cafe,Evening,Monday,Birthday,11:00 AM,No Change
+Social,3.0,Low,Office,Afternoon,Tuesday,Holiday,12:00 PM,Moved Earlier
+Meeting,3.0,Medium,Cafe,Afternoon,Tuesday,Anniversary,10:00 AM,No Change
+Errands,1.5,High,Home Office,Morning,Monday,Holiday,9:00 AM,Moved Later
+Errands,2.0,Low,Cafe,Morning,Tuesday,Birthday,4:00 PM,Moved Later
+Deep Work,1.0,Medium,Home Office,Afternoon,Thursday,Holiday,9:00 AM,Moved Earlier
+Errands,1.0,Low,Gym,Morning,Monday,Holiday,9:00 AM,Moved Later
+Errands,1.5,High,Office,Morning,Thursday,Holiday,12:00 PM,No Change
+Errands,3.0,High,Cafe,Afternoon,Tuesday,Anniversary,6:00 PM,No Change
+Errands,0.5,High,Home Office,Afternoon,Monday,Birthday,6:00 PM,Moved Earlier
+Exercise,1.5,High,Various,Afternoon,Tuesday,None,2:00 PM,No Change
+Exercise,1.5,Medium,Office,Afternoon,Monday,Anniversary,5:00 PM,No Change
+Deep Work,2.0,Medium,Gym,Evening,Tuesday,None,9:00 AM,No Change
+Meeting,1.0,Low,Home Office,Evening,Thursday,None,3:00 PM,No Change
+Errands,1.5,High,Gym,Afternoon,Sunday,Anniversary,6:00 PM,Moved Later
+Meeting,1.5,Low,Gym,Morning,Thursday,Anniversary,1:00 PM,No Change
+Meeting,3.0,Medium,Cafe,Afternoon,Tuesday,Birthday,4:00 PM,Moved Earlier
+Deep Work,3.0,High,Cafe,Afternoon,Monday,Birthday,3:00 PM,Moved Earlier
+Errands,0.5,High,Home Office,Morning,Wednesday,Holiday,12:00 PM,No Change
+Errands,2.0,Medium,Various,Evening,Thursday,None,12:00 PM,Moved Earlier
+Social,0.5,Medium,Home Office,Afternoon,Thursday,Birthday,2:00 PM,No Change
+Meeting,3.0,Medium,Various,Afternoon,Saturday,Holiday,2:00 PM,Moved Earlier
+Meeting,1.0,Medium,Gym,Evening,Wednesday,Birthday,5:00 PM,Moved Earlier
+Exercise,3.0,Medium,Office,Evening,Tuesday,Anniversary,1:00 PM,No Change
+Social,2.0,High,Home Office,Morning,Sunday,Birthday,4:00 PM,No Change
+Exercise,3.0,Medium,Home Office,Evening,Monday,None,1:00 PM,Moved Later
+Exercise,2.0,High,Various,Evening,Saturday,Birthday,10:00 AM,No Change
+Exercise,2.0,High,Gym,Evening,Tuesday,None,2:00 PM,No Change
+Deep Work,2.0,Medium,Gym,Morning,Friday,Anniversary,5:00 PM,Moved Later
+Deep Work,2.0,Medium,Various,Evening,Sunday,None,11:00 AM,No Change
+Exercise,2.0,High,Gym,Evening,Thursday,Birthday,9:00 AM,No Change
+Social,1.0,Medium,Cafe,Morning,Friday,Holiday,9:00 AM,Moved Later
+Meeting,0.5,Medium,Office,Evening,Thursday,Anniversary,11:00 AM,No Change
+Social,1.5,Medium,Home Office,Evening,Thursday,Birthday,6:00 PM,No Change
+Errands,0.5,Low,Office,Morning,Friday,Anniversary,1:00 PM,Moved Later
+Deep Work,2.0,High,Home Office,Afternoon,Sunday,Anniversary,11:00 AM,Moved Later
+Meeting,1.0,Low,Cafe,Morning,Friday,Birthday,5:00 PM,Moved Earlier
+Meeting,3.0,Medium,Gym,Evening,Tuesday,Birthday,4:00 PM,No Change
+Errands,1.0,Low,Various,Evening,Saturday,Holiday,11:00 AM,Moved Earlier
+Errands,2.0,Medium,Cafe,Evening,Saturday,Anniversary,5:00 PM,Moved Earlier
+Exercise,1.0,Low,Office,Morning,Friday,Anniversary,2:00 PM,Moved Later
+Deep Work,1.0,Medium,Various,Evening,Tuesday,Birthday,3:00 PM,No Change
+Deep Work,2.0,Low,Gym,Evening,Saturday,None,12:00 PM,No Change
+Social,1.0,Low,Cafe,Morning,Tuesday,Birthday,12:00 PM,Moved Later
+Exercise,1.5,Low,Various,Afternoon,Tuesday,Anniversary,10:00 AM,Moved Earlier
+Exercise,1.5,High,Cafe,Afternoon,Thursday,Birthday,1:00 PM,Moved Later
+Exercise,1.0,Low,Cafe,Evening,Saturday,Holiday,4:00 PM,No Change
+Exercise,3.0,High,Gym,Morning,Saturday,None,3:00 PM,Moved Later
+Deep Work,2.0,Medium,Home Office,Evening,Thursday,Birthday,3:00 PM,No Change
+Deep Work,1.5,Low,Various,Morning,Friday,Holiday,2:00 PM,Moved Earlier
+Exercise,3.0,Medium,Gym,Morning,Thursday,Anniversary,11:00 AM,No Change
+Social,1.0,Medium,Cafe,Afternoon,Saturday,Birthday,1:00 PM,Moved Earlier
+Meeting,3.0,Low,Gym,Afternoon,Saturday,Anniversary,9:00 AM,Moved Earlier
+Meeting,0.5,High,Home Office,Morning,Sunday,Holiday,3:00 PM,No Change
+Social,1.5,Low,Various,Evening,Friday,Anniversary,5:00 PM,No Change
+Exercise,1.0,Medium,Home Office,Afternoon,Thursday,Holiday,9:00 AM,Moved Earlier
+Deep Work,2.0,Medium,Office,Evening,Monday,Holiday,10:00 AM,Moved Later
+Meeting,1.0,Low,Various,Afternoon,Monday,Holiday,11:00 AM,No Change
+Errands,2.0,High,Home Office,Afternoon,Friday,Birthday,11:00 AM,Moved Earlier
+Errands,1.0,High,Cafe,Evening,Thursday,Anniversary,4:00 PM,Moved Earlier
+Social,3.0,Medium,Various,Afternoon,Thursday,Anniversary,3:00 PM,Moved Later
+Exercise,3.0,Medium,Various,Afternoon,Tuesday,None,2:00 PM,No Change
+Meeting,3.0,High,Gym,Evening,Saturday,None,6:00 PM,Moved Earlier
+Exercise,0.5,Low,Cafe,Afternoon,Wednesday,None,6:00 PM,Moved Later
+Meeting,2.0,Medium,Office,Afternoon,Sunday,None,12:00 PM,Moved Earlier
+Social,3.0,High,Home Office,Afternoon,Friday,Anniversary,5:00 PM,No Change
+Social,0.5,Medium,Gym,Evening,Wednesday,Holiday,9:00 AM,Moved Later
+Errands,2.0,Low,Home Office,Morning,Wednesday,Holiday,10:00 AM,Moved Earlier
+Exercise,1.0,High,Office,Evening,Friday,Birthday,12:00 PM,Moved Later
+Errands,0.5,Medium,Office,Morning,Thursday,Holiday,11:00 AM,No Change
+Exercise,1.5,Low,Various,Afternoon,Friday,Anniversary,9:00 AM,Moved Later
+Errands,0.5,Medium,Office,Morning,Wednesday,Anniversary,1:00 PM,No Change
+Deep Work,0.5,Low,Home Office,Evening,Saturday,Anniversary,3:00 PM,Moved Earlier
+Deep Work,2.0,Low,Cafe,Evening,Sunday,Birthday,10:00 AM,No Change
+Deep Work,1.0,High,Cafe,Afternoon,Sunday,None,1:00 PM,Moved Earlier
+Deep Work,1.5,Low,Various,Morning,Saturday,Holiday,2:00 PM,Moved Earlier
+Meeting,3.0,Medium,Home Office,Afternoon,Saturday,Anniversary,3:00 PM,No Change
+Deep Work,3.0,Low,Home Office,Afternoon,Thursday,Anniversary,9:00 AM,Moved Earlier
+Social,0.5,Low,Office,Evening,Monday,None,3:00 PM,Moved Later
+Social,2.0,High,Home Office,Morning,Friday,Anniversary,12:00 PM,Moved Earlier
+Meeting,2.0,Low,Gym,Morning,Sunday,Holiday,4:00 PM,No Change
+Deep Work,3.0,Low,Office,Morning,Saturday,Birthday,12:00 PM,Moved Later
+Deep Work,1.5,Medium,Gym,Morning,Friday,Anniversary,2:00 PM,Moved Later
+Deep Work,1.0,High,Various,Afternoon,Sunday,Holiday,5:00 PM,Moved Earlier
+Errands,1.5,High,Cafe,Afternoon,Saturday,Anniversary,1:00 PM,Moved Earlier
+Exercise,1.0,High,Various,Evening,Sunday,None,12:00 PM,No Change
+Errands,3.0,Low,Cafe,Afternoon,Thursday,Anniversary,4:00 PM,Moved Later
+Exercise,1.0,High,Various,Afternoon,Monday,Anniversary,5:00 PM,No Change
+Deep Work,2.0,Low,Home Office,Evening,Monday,Birthday,12:00 PM,Moved Earlier
+Deep Work,0.5,Low,Gym,Evening,Saturday,None,11:00 AM,Moved Later
+Errands,0.5,Medium,Cafe,Evening,Sunday,None,4:00 PM,No Change
+Errands,3.0,Medium,Office,Afternoon,Thursday,Birthday,1:00 PM,No Change
+Exercise,2.0,Medium,Gym,Afternoon,Tuesday,Anniversary,10:00 AM,No Change
+Social,1.5,Medium,Office,Evening,Friday,Holiday,6:00 PM,No Change
+Exercise,2.0,Medium,Gym,Evening,Friday,None,5:00 PM,No Change
+Errands,0.5,Low,Gym,Evening,Wednesday,None,11:00 AM,Moved Later
+Errands,0.5,Low,Various,Afternoon,Thursday,Anniversary,10:00 AM,No Change
+Meeting,2.0,High,Cafe,Afternoon,Sunday,Anniversary,9:00 AM,Moved Later
+Errands,2.0,Low,Cafe,Morning,Wednesday,None,4:00 PM,No Change
+Meeting,0.5,Low,Gym,Afternoon,Saturday,Anniversary,11:00 AM,Moved Earlier
+Social,1.5,Medium,Home Office,Afternoon,Sunday,Holiday,3:00 PM,Moved Earlier
+Exercise,3.0,Low,Home Office,Afternoon,Wednesday,None,9:00 AM,No Change
+Exercise,3.0,Medium,Office,Evening,Monday,Holiday,9:00 AM,Moved Earlier
+Meeting,2.0,High,Office,Afternoon,Friday,Holiday,5:00 PM,Moved Later
+Exercise,3.0,High,Various,Evening,Sunday,Anniversary,4:00 PM,No Change
+Errands,0.5,Low,Gym,Morning,Wednesday,Holiday,11:00 AM,Moved Later
+Deep Work,0.5,High,Office,Morning,Monday,Anniversary,2:00 PM,No Change
+Meeting,2.0,Low,Office,Evening,Thursday,Birthday,11:00 AM,Moved Earlier
+Exercise,2.0,High,Gym,Evening,Wednesday,Anniversary,12:00 PM,Moved Later
+Meeting,2.0,Medium,Various,Evening,Saturday,Holiday,9:00 AM,Moved Earlier
+Meeting,1.5,Medium,Office,Afternoon,Saturday,Birthday,1:00 PM,Moved Earlier
+Deep Work,3.0,Medium,Various,Morning,Saturday,Anniversary,9:00 AM,No Change
+Errands,2.0,Medium,Cafe,Evening,Sunday,Holiday,9:00 AM,Moved Later
+Meeting,1.0,Low,Various,Afternoon,Friday,None,6:00 PM,Moved Earlier
+Exercise,1.0,High,Home Office,Morning,Wednesday,None,3:00 PM,No Change
+Social,0.5,Low,Home Office,Afternoon,Thursday,Anniversary,2:00 PM,No Change
+Meeting,3.0,Medium,Various,Morning,Wednesday,Anniversary,10:00 AM,No Change
+Meeting,2.0,Low,Home Office,Afternoon,Friday,None,10:00 AM,Moved Earlier
+Deep Work,1.0,High,Cafe,Morning,Monday,Holiday,3:00 PM,No Change
+Errands,3.0,Low,Gym,Morning,Friday,Holiday,9:00 AM,Moved Later
+Social,0.5,High,Home Office,Afternoon,Saturday,Holiday,10:00 AM,Moved Later
+Exercise,1.5,Low,Home Office,Evening,Sunday,Anniversary,4:00 PM,Moved Earlier
+Social,3.0,High,Various,Morning,Monday,Birthday,2:00 PM,Moved Later
+Exercise,3.0,High,Cafe,Evening,Sunday,Birthday,10:00 AM,No Change
+Errands,1.5,Medium,Gym,Afternoon,Saturday,Birthday,3:00 PM,Moved Earlier
+Exercise,3.0,High,Various,Evening,Tuesday,Birthday,12:00 PM,No Change
+Deep Work,0.5,Medium,Various,Evening,Friday,Birthday,10:00 AM,Moved Earlier
+Deep Work,0.5,Medium,Cafe,Evening,Friday,Anniversary,2:00 PM,Moved Earlier
+Deep Work,1.5,Medium,Gym,Evening,Thursday,Anniversary,5:00 PM,No Change
+Deep Work,2.0,Low,Cafe,Evening,Wednesday,Birthday,5:00 PM,Moved Later
+Social,1.0,Low,Gym,Morning,Monday,Anniversary,4:00 PM,Moved Later
+Errands,2.0,Low,Cafe,Morning,Sunday,Anniversary,11:00 AM,Moved Earlier
+Exercise,3.0,Low,Various,Morning,Monday,Birthday,11:00 AM,No Change
+Exercise,1.0,High,Various,Afternoon,Thursday,Holiday,10:00 AM,No Change
+Deep Work,1.5,High,Office,Evening,Thursday,Anniversary,1:00 PM,Moved Earlier
+Deep Work,1.5,Low,Home Office,Morning,Sunday,Holiday,12:00 PM,Moved Later
+Meeting,1.0,High,Cafe,Afternoon,Wednesday,Anniversary,3:00 PM,No Change
+Errands,0.5,High,Office,Morning,Sunday,Anniversary,12:00 PM,Moved Later
+Social,1.0,Medium,Home Office,Morning,Sunday,Birthday,5:00 PM,Moved Later
+Exercise,3.0,Medium,Cafe,Evening,Saturday,Anniversary,10:00 AM,Moved Earlier
+Meeting,0.5,Medium,Gym,Afternoon,Wednesday,None,2:00 PM,Moved Earlier
+Meeting,1.5,Medium,Home Office,Evening,Friday,None,3:00 PM,Moved Later
+Exercise,1.0,High,Various,Evening,Saturday,Birthday,12:00 PM,No Change
+Social,2.0,Low,Office,Morning,Tuesday,Holiday,2:00 PM,No Change
+Meeting,2.0,High,Home Office,Evening,Wednesday,Holiday,3:00 PM,Moved Earlier
+Meeting,3.0,High,Home Office,Afternoon,Thursday,Holiday,12:00 PM,Moved Later
+Errands,2.0,High,Various,Evening,Saturday,None,4:00 PM,No Change
+Social,1.0,Medium,Cafe,Evening,Wednesday,Holiday,5:00 PM,No Change
+Meeting,1.0,Medium,Gym,Evening,Monday,Holiday,9:00 AM,Moved Earlier
+Social,2.0,Medium,Various,Morning,Sunday,Birthday,3:00 PM,Moved Later
+Exercise,1.0,Low,Gym,Afternoon,Tuesday,Holiday,5:00 PM,No Change
+Deep Work,3.0,High,Cafe,Morning,Friday,None,6:00 PM,Moved Earlier
+Meeting,0.5,Low,Home Office,Morning,Sunday,None,1:00 PM,No Change
+Errands,3.0,Medium,Gym,Morning,Monday,None,10:00 AM,No Change
+Exercise,3.0,Low,Office,Morning,Monday,Birthday,6:00 PM,No Change
+Social,1.0,High,Office,Morning,Tuesday,Birthday,2:00 PM,Moved Earlier
+Exercise,0.5,High,Various,Afternoon,Friday,Anniversary,3:00 PM,Moved Later
+Meeting,1.0,Medium,Cafe,Evening,Thursday,Holiday,10:00 AM,Moved Earlier
+Social,1.5,Medium,Various,Morning,Saturday,Birthday,10:00 AM,Moved Later
+Deep Work,1.0,Low,Various,Morning,Friday,None,6:00 PM,No Change
+Exercise,1.0,Medium,Various,Afternoon,Wednesday,None,6:00 PM,Moved Later
+Meeting,1.0,Medium,Office,Afternoon,Monday,Birthday,9:00 AM,No Change
+Errands,0.5,High,Office,Evening,Wednesday,Birthday,12:00 PM,No Change
+Social,1.0,Medium,Various,Afternoon,Thursday,Birthday,3:00 PM,Moved Earlier
+Exercise,0.5,Medium,Office,Evening,Wednesday,Anniversary,5:00 PM,No Change
+Exercise,2.0,High,Cafe,Morning,Friday,None,11:00 AM,Moved Earlier
+Deep Work,1.5,High,Various,Morning,Wednesday,Anniversary,3:00 PM,Moved Later
+Deep Work,0.5,Low,Office,Evening,Thursday,Anniversary,3:00 PM,Moved Later
+Errands,2.0,Medium,Gym,Afternoon,Thursday,Holiday,3:00 PM,No Change
+Errands,0.5,High,Various,Evening,Thursday,None,10:00 AM,Moved Earlier
+Meeting,0.5,Low,Various,Afternoon,Friday,None,2:00 PM,No Change
+Meeting,1.5,Low,Cafe,Morning,Thursday,Birthday,10:00 AM,Moved Earlier
+Errands,3.0,Medium,Home Office,Afternoon,Monday,Birthday,2:00 PM,Moved Earlier
+Errands,3.0,Medium,Home Office,Evening,Sunday,Holiday,6:00 PM,Moved Earlier
+Social,0.5,Low,Cafe,Evening,Thursday,Anniversary,11:00 AM,Moved Later
+Deep Work,1.0,High,Cafe,Morning,Wednesday,Birthday,10:00 AM,Moved Earlier
+Meeting,2.0,Low,Cafe,Afternoon,Saturday,Birthday,2:00 PM,Moved Later
+Deep Work,1.0,Medium,Home Office,Afternoon,Wednesday,None,10:00 AM,Moved Earlier
+Deep Work,1.0,High,Cafe,Afternoon,Saturday,None,1:00 PM,Moved Later
+Errands,0.5,High,Office,Morning,Wednesday,Birthday,10:00 AM,Moved Later
+Social,0.5,Low,Various,Afternoon,Friday,None,11:00 AM,Moved Later
+Exercise,0.5,Medium,Various,Evening,Wednesday,Holiday,11:00 AM,No Change
+Social,0.5,Low,Gym,Afternoon,Friday,Birthday,2:00 PM,Moved Earlier
+Social,3.0,Low,Gym,Morning,Friday,None,2:00 PM,No Change
+Deep Work,0.5,Low,Various,Afternoon,Thursday,Holiday,6:00 PM,Moved Earlier
+Social,3.0,High,Office,Afternoon,Monday,None,11:00 AM,Moved Earlier
+Meeting,3.0,High,Home Office,Evening,Saturday,None,11:00 AM,No Change
+Deep Work,0.5,Medium,Home Office,Afternoon,Thursday,None,9:00 AM,Moved Later
+Meeting,1.5,Medium,Office,Evening,Thursday,Birthday,3:00 PM,Moved Earlier
+Exercise,2.0,Low,Home Office,Evening,Sunday,Anniversary,4:00 PM,Moved Later
+Deep Work,1.0,Low,Cafe,Morning,Friday,None,10:00 AM,No Change
+Exercise,3.0,Low,Various,Evening,Friday,Holiday,12:00 PM,Moved Later
+Deep Work,2.0,Medium,Various,Evening,Saturday,Birthday,6:00 PM,Moved Earlier
+Errands,1.5,High,Office,Morning,Wednesday,Birthday,3:00 PM,Moved Earlier
+Social,1.0,High,Home Office,Evening,Wednesday,Holiday,4:00 PM,Moved Earlier
+Errands,1.0,Low,Gym,Morning,Thursday,None,9:00 AM,No Change
+Exercise,3.0,Low,Gym,Afternoon,Tuesday,Anniversary,12:00 PM,Moved Earlier
+Social,0.5,Low,Home Office,Morning,Tuesday,None,2:00 PM,No Change
+Deep Work,1.5,Low,Gym,Evening,Wednesday,Holiday,11:00 AM,Moved Later
+Social,3.0,Medium,Office,Morning,Tuesday,Birthday,1:00 PM,Moved Earlier
+Meeting,1.5,High,Office,Evening,Sunday,Anniversary,6:00 PM,Moved Earlier
+Social,0.5,Low,Home Office,Afternoon,Wednesday,Birthday,5:00 PM,Moved Earlier
+Meeting,0.5,Medium,Gym,Morning,Friday,Holiday,11:00 AM,Moved Later
+Social,3.0,Low,Office,Afternoon,Thursday,None,1:00 PM,Moved Earlier
+Meeting,0.5,Low,Office,Evening,Monday,Anniversary,4:00 PM,No Change
+Exercise,2.0,High,Cafe,Evening,Thursday,Birthday,2:00 PM,Moved Later
+Errands,1.0,Low,Cafe,Afternoon,Wednesday,Birthday,12:00 PM,Moved Later
+Deep Work,3.0,High,Office,Morning,Sunday,Birthday,4:00 PM,Moved Later
+Social,1.5,High,Home Office,Morning,Wednesday,None,11:00 AM,Moved Later
+Errands,2.0,High,Various,Evening,Thursday,Anniversary,11:00 AM,Moved Later
+Deep Work,3.0,Medium,Various,Afternoon,Sunday,None,12:00 PM,No Change
+Deep Work,0.5,Medium,Office,Afternoon,Sunday,None,5:00 PM,Moved Later
+Meeting,0.5,High,Office,Morning,Sunday,None,1:00 PM,Moved Earlier
+Exercise,0.5,Low,Office,Morning,Saturday,Holiday,4:00 PM,Moved Later
+Exercise,0.5,High,Home Office,Morning,Wednesday,Holiday,2:00 PM,Moved Later
+Errands,1.5,Low,Cafe,Afternoon,Tuesday,Holiday,11:00 AM,Moved Later
+Exercise,2.0,High,Office,Morning,Tuesday,Anniversary,4:00 PM,Moved Later
+Social,1.0,Low,Office,Morning,Wednesday,None,5:00 PM,Moved Later
+Exercise,1.5,Medium,Gym,Evening,Wednesday,None,4:00 PM,No Change
+Errands,1.5,Low,Home Office,Morning,Saturday,Holiday,12:00 PM,No Change
+Exercise,1.0,High,Office,Morning,Tuesday,None,2:00 PM,Moved Later
+Social,1.0,Medium,Gym,Afternoon,Wednesday,None,9:00 AM,No Change
+Meeting,0.5,Low,Various,Afternoon,Wednesday,Birthday,12:00 PM,Moved Earlier
+Errands,1.5,Low,Office,Evening,Saturday,None,4:00 PM,Moved Later
+Meeting,3.0,Low,Office,Morning,Saturday,Birthday,9:00 AM,Moved Earlier
+Meeting,1.0,Low,Gym,Evening,Thursday,None,11:00 AM,Moved Earlier
+Meeting,1.0,Low,Home Office,Afternoon,Saturday,Anniversary,9:00 AM,Moved Later
+Deep Work,2.0,Medium,Office,Evening,Monday,Holiday,5:00 PM,Moved Earlier
+Deep Work,3.0,Medium,Various,Afternoon,Tuesday,Birthday,10:00 AM,Moved Earlier
+Meeting,3.0,Medium,Office,Evening,Thursday,Holiday,5:00 PM,Moved Earlier
+Errands,1.0,Medium,Various,Evening,Monday,Birthday,12:00 PM,Moved Later
+Social,0.5,High,Cafe,Morning,Wednesday,Birthday,10:00 AM,Moved Later
+Social,2.0,Medium,Cafe,Evening,Wednesday,Birthday,12:00 PM,Moved Earlier
+Exercise,3.0,Low,Various,Morning,Thursday,Anniversary,6:00 PM,Moved Later
+Errands,1.0,Low,Home Office,Morning,Saturday,None,2:00 PM,Moved Later
+Deep Work,3.0,Medium,Office,Morning,Sunday,Birthday,3:00 PM,Moved Earlier
+Meeting,2.0,Low,Office,Morning,Sunday,Anniversary,11:00 AM,Moved Later
+Exercise,2.0,Medium,Cafe,Evening,Wednesday,Birthday,11:00 AM,No Change
+Social,1.5,Low,Various,Afternoon,Sunday,None,6:00 PM,Moved Later
+Deep Work,1.0,High,Office,Afternoon,Friday,Birthday,4:00 PM,No Change
+Deep Work,2.0,High,Office,Afternoon,Thursday,Anniversary,1:00 PM,Moved Earlier
+Meeting,1.5,Medium,Home Office,Evening,Monday,None,12:00 PM,Moved Later
+Social,1.5,Medium,Gym,Morning,Thursday,Anniversary,3:00 PM,Moved Earlier
+Errands,3.0,Medium,Cafe,Afternoon,Tuesday,None,3:00 PM,Moved Earlier
+Deep Work,3.0,Low,Cafe,Evening,Saturday,None,5:00 PM,Moved Earlier
+Meeting,1.5,Medium,Gym,Morning,Saturday,Holiday,5:00 PM,Moved Earlier
+Errands,3.0,High,Office,Afternoon,Thursday,Holiday,1:00 PM,Moved Earlier
+Social,2.0,Low,Home Office,Morning,Wednesday,Holiday,4:00 PM,Moved Later
+Deep Work,0.5,Medium,Home Office,Afternoon,Wednesday,None,6:00 PM,No Change
+Errands,2.0,Low,Cafe,Afternoon,Friday,Birthday,9:00 AM,Moved Later
+Errands,1.5,Low,Home Office,Afternoon,Friday,Anniversary,5:00 PM,Moved Later
+Errands,1.5,Medium,Gym,Morning,Saturday,Anniversary,4:00 PM,Moved Later
+Deep Work,2.0,Low,Office,Evening,Friday,Anniversary,2:00 PM,Moved Later
+Deep Work,3.0,High,Gym,Morning,Monday,Holiday,11:00 AM,No Change
+Exercise,3.0,High,Various,Afternoon,Friday,None,11:00 AM,Moved Later
+Social,1.5,Low,Cafe,Morning,Monday,Holiday,4:00 PM,Moved Earlier
+Meeting,1.0,Medium,Home Office,Evening,Friday,Birthday,1:00 PM,Moved Later
+Errands,3.0,Low,Various,Morning,Saturday,None,6:00 PM,Moved Later
+Exercise,2.0,High,Home Office,Evening,Saturday,Anniversary,3:00 PM,No Change
+Meeting,3.0,Low,Office,Evening,Monday,Holiday,1:00 PM,No Change
+Exercise,2.0,Low,Office,Morning,Thursday,Holiday,4:00 PM,Moved Earlier
+Deep Work,1.5,High,Office,Afternoon,Saturday,Birthday,6:00 PM,Moved Later
+Errands,3.0,Low,Home Office,Evening,Thursday,Birthday,6:00 PM,Moved Later
+Meeting,2.0,Low,Various,Morning,Wednesday,Holiday,12:00 PM,Moved Later
+Meeting,1.5,Medium,Office,Evening,Monday,Birthday,10:00 AM,Moved Earlier
+Meeting,1.0,Medium,Various,Afternoon,Sunday,Anniversary,11:00 AM,No Change
+Meeting,2.0,High,Home Office,Morning,Saturday,Birthday,4:00 PM,Moved Earlier
+Meeting,1.0,High,Various,Morning,Tuesday,Birthday,3:00 PM,Moved Later
+Exercise,1.0,High,Home Office,Morning,Wednesday,Holiday,10:00 AM,No Change
+Errands,0.5,Medium,Home Office,Afternoon,Thursday,Holiday,2:00 PM,No Change
+Deep Work,3.0,High,Cafe,Evening,Saturday,None,5:00 PM,Moved Earlier
+Deep Work,2.0,High,Home Office,Morning,Monday,None,12:00 PM,No Change
+Deep Work,1.0,High,Home Office,Evening,Sunday,Holiday,5:00 PM,No Change
+Deep Work,0.5,Medium,Gym,Evening,Friday,Birthday,10:00 AM,Moved Later
+Exercise,1.5,Low,Office,Afternoon,Sunday,Birthday,10:00 AM,Moved Later
+Social,2.0,High,Cafe,Morning,Tuesday,None,5:00 PM,No Change
+Errands,1.0,Low,Cafe,Evening,Thursday,None,3:00 PM,No Change
+Meeting,3.0,High,Cafe,Morning,Wednesday,None,3:00 PM,Moved Earlier
+Social,0.5,Low,Gym,Morning,Sunday,Anniversary,9:00 AM,Moved Earlier
+Deep Work,1.0,Medium,Home Office,Afternoon,Monday,Anniversary,2:00 PM,No Change
+Social,3.0,Medium,Office,Morning,Tuesday,None,3:00 PM,Moved Later
+Errands,1.0,High,Various,Morning,Monday,Birthday,2:00 PM,No Change
+Meeting,2.0,Low,Home Office,Evening,Saturday,None,2:00 PM,No Change
+Meeting,2.0,Medium,Gym,Afternoon,Friday,Anniversary,10:00 AM,Moved Later
+Errands,2.0,High,Home Office,Morning,Wednesday,Birthday,2:00 PM,Moved Later
+Errands,0.5,High,Home Office,Evening,Monday,Anniversary,12:00 PM,Moved Earlier
+Deep Work,2.0,Medium,Gym,Afternoon,Thursday,Birthday,5:00 PM,Moved Earlier
+Meeting,3.0,Medium,Cafe,Afternoon,Saturday,Anniversary,9:00 AM,Moved Earlier
+Social,1.0,High,Cafe,Evening,Saturday,Birthday,4:00 PM,Moved Earlier
+Exercise,1.5,Low,Office,Evening,Wednesday,Birthday,1:00 PM,Moved Later
+Exercise,3.0,Low,Office,Evening,Saturday,Birthday,9:00 AM,No Change
+Errands,3.0,Low,Cafe,Evening,Thursday,Birthday,12:00 PM,Moved Earlier
+Deep Work,2.0,High,Various,Evening,Monday,Holiday,9:00 AM,Moved Earlier
+Exercise,0.5,Medium,Home Office,Morning,Wednesday,Anniversary,2:00 PM,Moved Later
+Meeting,1.0,High,Various,Morning,Saturday,Anniversary,10:00 AM,Moved Later
+Errands,0.5,Medium,Home Office,Afternoon,Saturday,Holiday,1:00 PM,No Change
+Social,1.0,Low,Cafe,Morning,Thursday,Birthday,3:00 PM,No Change
+Errands,1.0,Low,Office,Morning,Friday,Birthday,10:00 AM,Moved Later
+Social,0.5,Medium,Office,Morning,Friday,Anniversary,2:00 PM,Moved Earlier
+Errands,3.0,Medium,Various,Evening,Sunday,Holiday,2:00 PM,Moved Earlier
+Errands,1.0,High,Office,Afternoon,Saturday,Birthday,1:00 PM,Moved Earlier
+Errands,0.5,Low,Cafe,Afternoon,Monday,Birthday,1:00 PM,No Change
+Social,1.0,High,Various,Afternoon,Wednesday,Birthday,11:00 AM,Moved Earlier
+Social,1.5,High,Home Office,Afternoon,Saturday,None,6:00 PM,Moved Earlier
+Errands,3.0,High,Office,Morning,Tuesday,Holiday,6:00 PM,Moved Later
+Exercise,2.0,Low,Gym,Morning,Wednesday,Birthday,10:00 AM,Moved Earlier
+Deep Work,1.0,High,Office,Evening,Sunday,None,3:00 PM,Moved Later
+Deep Work,1.5,High,Home Office,Afternoon,Friday,Holiday,9:00 AM,Moved Earlier
+Deep Work,2.0,High,Various,Morning,Saturday,Birthday,2:00 PM,No Change
+Social,2.0,High,Home Office,Morning,Thursday,Anniversary,2:00 PM,Moved Earlier
+Social,1.0,High,Gym,Evening,Tuesday,None,11:00 AM,Moved Earlier
+Exercise,0.5,High,Cafe,Evening,Saturday,None,10:00 AM,Moved Later
+Deep Work,1.0,Low,Office,Evening,Sunday,Birthday,10:00 AM,Moved Later
+Deep Work,1.5,High,Various,Morning,Monday,Birthday,5:00 PM,Moved Later
+Errands,2.0,Medium,Cafe,Morning,Tuesday,None,1:00 PM,Moved Earlier
+Social,1.0,High,Home Office,Evening,Sunday,Anniversary,3:00 PM,Moved Earlier
+Deep Work,0.5,High,Various,Afternoon,Saturday,Anniversary,1:00 PM,No Change
+Exercise,1.0,Low,Cafe,Evening,Monday,Holiday,3:00 PM,Moved Earlier
+Exercise,3.0,Low,Various,Evening,Tuesday,Birthday,12:00 PM,No Change
+Deep Work,0.5,Medium,Gym,Evening,Monday,Anniversary,4:00 PM,Moved Later
+Social,1.5,Medium,Gym,Evening,Monday,Holiday,6:00 PM,Moved Later
+Exercise,2.0,Low,Office,Morning,Tuesday,Anniversary,6:00 PM,Moved Later
+Errands,1.0,Low,Office,Afternoon,Tuesday,Birthday,3:00 PM,No Change
+Exercise,0.5,High,Gym,Evening,Monday,Holiday,6:00 PM,Moved Earlier
+Meeting,3.0,Low,Various,Afternoon,Sunday,Holiday,1:00 PM,Moved Later
+Meeting,0.5,Medium,Gym,Afternoon,Friday,Holiday,2:00 PM,Moved Earlier
+Social,3.0,High,Office,Afternoon,Tuesday,Anniversary,1:00 PM,Moved Earlier
+Deep Work,1.5,Medium,Gym,Evening,Saturday,Birthday,3:00 PM,Moved Later

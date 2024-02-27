@@ -1,0 +1,6 @@
+Task Type,Duration (hrs),Priority,Location,Preferred Time of Day,Day of Week,Special Dates,Scheduled Time,Slot Adjustment
+Meeting,1.0,High,Office,Morning,Monday,None,9:00 AM,No Change
+Exercise,2.0,Medium,Gym,Evening,Saturday,None,6:00 PM,Moved Earlier
+Deep Work,3.0,High,Home Office,Afternoon,Wednesday,None,2:00 PM,No Change
+Social,1.5,Low,Cafe,Evening,Friday,Birthday,8:00 PM,Moved Later
+Errands,0.5,Medium,Various,Morning,Tuesday,None,10:00 AM,No Change
